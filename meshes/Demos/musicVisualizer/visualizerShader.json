@@ -1,0 +1,6954 @@
+{
+  "tags": null,
+  "mode": 0,
+  "id": "visualizerMat",
+  "uniqueId": 1,
+  "name": "visualizerMat",
+  "checkReadyOnEveryCall": false,
+  "checkReadyOnlyOnce": false,
+  "state": "",
+  "alpha": 1,
+  "backFaceCulling": true,
+  "sideOrientation": 1,
+  "alphaMode": 2,
+  "_needDepthPrePass": false,
+  "disableDepthWrite": false,
+  "disableColorWrite": false,
+  "forceDepthWrite": false,
+  "depthFunction": 0,
+  "separateCullingPass": false,
+  "fogEnabled": true,
+  "pointSize": 1,
+  "zOffset": 0,
+  "pointsCloud": false,
+  "fillMode": 0,
+  "editorData": {
+    "locations": [
+      {
+        "blockId": 11,
+        "x": -2560,
+        "y": 1180
+      },
+      {
+        "blockId": 12,
+        "x": -2800,
+        "y": 1160
+      },
+      {
+        "blockId": 13,
+        "x": -3060,
+        "y": 1100
+      },
+      {
+        "blockId": 14,
+        "x": -3300,
+        "y": 1060
+      },
+      {
+        "blockId": 15,
+        "x": -3300,
+        "y": 1180
+      },
+      {
+        "blockId": 16,
+        "x": -3060,
+        "y": 1240
+      },
+      {
+        "blockId": 17,
+        "x": 3300,
+        "y": 4340
+      },
+      {
+        "blockId": 18,
+        "x": 3000,
+        "y": 4300
+      },
+      {
+        "blockId": 19,
+        "x": 2280,
+        "y": 3940
+      },
+      {
+        "blockId": 20,
+        "x": 1680,
+        "y": 3940
+      },
+      {
+        "blockId": 21,
+        "x": 1400,
+        "y": 3940
+      },
+      {
+        "blockId": 22,
+        "x": -1700,
+        "y": 4460
+      },
+      {
+        "blockId": 24,
+        "x": -1980,
+        "y": 4460
+      },
+      {
+        "blockId": 25,
+        "x": 1680,
+        "y": 4080
+      },
+      {
+        "blockId": 26,
+        "x": 1400,
+        "y": 4080
+      },
+      {
+        "blockId": 27,
+        "x": 1800,
+        "y": 2300
+      },
+      {
+        "blockId": 28,
+        "x": 1800,
+        "y": 2160
+      },
+      {
+        "blockId": 29,
+        "x": 1800,
+        "y": 2020
+      },
+      {
+        "blockId": 30,
+        "x": 1800,
+        "y": 1880
+      },
+      {
+        "blockId": 31,
+        "x": 1800,
+        "y": 1740
+      },
+      {
+        "blockId": 32,
+        "x": 1800,
+        "y": 1600
+      },
+      {
+        "blockId": 33,
+        "x": 1800,
+        "y": 1460
+      },
+      {
+        "blockId": 34,
+        "x": 1800,
+        "y": 1320
+      },
+      {
+        "blockId": 35,
+        "x": 1800,
+        "y": 1180
+      },
+      {
+        "blockId": 36,
+        "x": 1800,
+        "y": 1040
+      },
+      {
+        "blockId": 37,
+        "x": 1800,
+        "y": 900
+      },
+      {
+        "blockId": 38,
+        "x": 1800,
+        "y": 760
+      },
+      {
+        "blockId": 39,
+        "x": 1800,
+        "y": 620
+      },
+      {
+        "blockId": 40,
+        "x": 1800,
+        "y": 480
+      },
+      {
+        "blockId": 41,
+        "x": 1800,
+        "y": 340
+      },
+      {
+        "blockId": 42,
+        "x": 1500,
+        "y": 280
+      },
+      {
+        "blockId": 43,
+        "x": -60,
+        "y": -840
+      },
+      {
+        "blockId": 44,
+        "x": -1080,
+        "y": 240
+      },
+      {
+        "blockId": 45,
+        "x": -1400,
+        "y": 240
+      },
+      {
+        "blockId": 46,
+        "x": -320,
+        "y": -820
+      },
+      {
+        "blockId": 47,
+        "x": -580,
+        "y": -820
+      },
+      {
+        "blockId": 48,
+        "x": 1220,
+        "y": 380
+      },
+      {
+        "blockId": 49,
+        "x": -120,
+        "y": 1760
+      },
+      {
+        "blockId": 50,
+        "x": -660,
+        "y": 1700
+      },
+      {
+        "blockId": 51,
+        "x": -980,
+        "y": 1740
+      },
+      {
+        "blockId": 52,
+        "x": -380,
+        "y": 1820
+      },
+      {
+        "blockId": 53,
+        "x": -660,
+        "y": 1820
+      },
+      {
+        "blockId": 54,
+        "x": -980,
+        "y": 1840
+      },
+      {
+        "blockId": 55,
+        "x": 1500,
+        "y": 420
+      },
+      {
+        "blockId": 56,
+        "x": -60,
+        "y": -700
+      },
+      {
+        "blockId": 57,
+        "x": -320,
+        "y": -680
+      },
+      {
+        "blockId": 58,
+        "x": -580,
+        "y": -680
+      },
+      {
+        "blockId": 59,
+        "x": 1220,
+        "y": 520
+      },
+      {
+        "blockId": 60,
+        "x": -160,
+        "y": 2140
+      },
+      {
+        "blockId": 61,
+        "x": -720,
+        "y": 2080
+      },
+      {
+        "blockId": 62,
+        "x": -1020,
+        "y": 2100
+      },
+      {
+        "blockId": 63,
+        "x": -460,
+        "y": 2220
+      },
+      {
+        "blockId": 64,
+        "x": -720,
+        "y": 2220
+      },
+      {
+        "blockId": 65,
+        "x": -1020,
+        "y": 2240
+      },
+      {
+        "blockId": 66,
+        "x": 1500,
+        "y": 560
+      },
+      {
+        "blockId": 67,
+        "x": -60,
+        "y": -560
+      },
+      {
+        "blockId": 68,
+        "x": -320,
+        "y": -540
+      },
+      {
+        "blockId": 69,
+        "x": -580,
+        "y": -540
+      },
+      {
+        "blockId": 70,
+        "x": 1220,
+        "y": 660
+      },
+      {
+        "blockId": 71,
+        "x": -140,
+        "y": 2560
+      },
+      {
+        "blockId": 72,
+        "x": -700,
+        "y": 2500
+      },
+      {
+        "blockId": 73,
+        "x": -1000,
+        "y": 2520
+      },
+      {
+        "blockId": 74,
+        "x": -440,
+        "y": 2640
+      },
+      {
+        "blockId": 75,
+        "x": -700,
+        "y": 2640
+      },
+      {
+        "blockId": 76,
+        "x": -1000,
+        "y": 2660
+      },
+      {
+        "blockId": 77,
+        "x": 1500,
+        "y": 700
+      },
+      {
+        "blockId": 78,
+        "x": -60,
+        "y": -420
+      },
+      {
+        "blockId": 79,
+        "x": -320,
+        "y": -400
+      },
+      {
+        "blockId": 80,
+        "x": -580,
+        "y": -400
+      },
+      {
+        "blockId": 81,
+        "x": 1220,
+        "y": 800
+      },
+      {
+        "blockId": 82,
+        "x": -120,
+        "y": 3020
+      },
+      {
+        "blockId": 83,
+        "x": -680,
+        "y": 2960
+      },
+      {
+        "blockId": 84,
+        "x": -980,
+        "y": 2980
+      },
+      {
+        "blockId": 85,
+        "x": -420,
+        "y": 3100
+      },
+      {
+        "blockId": 86,
+        "x": -680,
+        "y": 3100
+      },
+      {
+        "blockId": 87,
+        "x": -980,
+        "y": 3120
+      },
+      {
+        "blockId": 88,
+        "x": 1500,
+        "y": 840
+      },
+      {
+        "blockId": 89,
+        "x": -60,
+        "y": -280
+      },
+      {
+        "blockId": 90,
+        "x": -320,
+        "y": -260
+      },
+      {
+        "blockId": 91,
+        "x": -580,
+        "y": -260
+      },
+      {
+        "blockId": 92,
+        "x": 1220,
+        "y": 940
+      },
+      {
+        "blockId": 93,
+        "x": -120,
+        "y": 3480
+      },
+      {
+        "blockId": 94,
+        "x": -680,
+        "y": 3420
+      },
+      {
+        "blockId": 95,
+        "x": -980,
+        "y": 3440
+      },
+      {
+        "blockId": 96,
+        "x": -420,
+        "y": 3560
+      },
+      {
+        "blockId": 97,
+        "x": -680,
+        "y": 3560
+      },
+      {
+        "blockId": 98,
+        "x": -980,
+        "y": 3580
+      },
+      {
+        "blockId": 99,
+        "x": 1500,
+        "y": 980
+      },
+      {
+        "blockId": 100,
+        "x": -60,
+        "y": -140
+      },
+      {
+        "blockId": 101,
+        "x": -320,
+        "y": -120
+      },
+      {
+        "blockId": 102,
+        "x": -580,
+        "y": -120
+      },
+      {
+        "blockId": 103,
+        "x": 1220,
+        "y": 1080
+      },
+      {
+        "blockId": 104,
+        "x": -120,
+        "y": 3940
+      },
+      {
+        "blockId": 105,
+        "x": -680,
+        "y": 3880
+      },
+      {
+        "blockId": 106,
+        "x": -980,
+        "y": 3900
+      },
+      {
+        "blockId": 107,
+        "x": -420,
+        "y": 4020
+      },
+      {
+        "blockId": 108,
+        "x": -680,
+        "y": 4020
+      },
+      {
+        "blockId": 109,
+        "x": -980,
+        "y": 4040
+      },
+      {
+        "blockId": 110,
+        "x": 1500,
+        "y": 1120
+      },
+      {
+        "blockId": 111,
+        "x": -60,
+        "y": 0
+      },
+      {
+        "blockId": 112,
+        "x": -320,
+        "y": 20
+      },
+      {
+        "blockId": 113,
+        "x": -580,
+        "y": 20
+      },
+      {
+        "blockId": 114,
+        "x": 1220,
+        "y": 1220
+      },
+      {
+        "blockId": 115,
+        "x": -120,
+        "y": 4320
+      },
+      {
+        "blockId": 116,
+        "x": -680,
+        "y": 4320
+      },
+      {
+        "blockId": 117,
+        "x": -980,
+        "y": 4340
+      },
+      {
+        "blockId": 118,
+        "x": -420,
+        "y": 4460
+      },
+      {
+        "blockId": 119,
+        "x": -680,
+        "y": 4460
+      },
+      {
+        "blockId": 120,
+        "x": -980,
+        "y": 4480
+      },
+      {
+        "blockId": 121,
+        "x": 1500,
+        "y": 1260
+      },
+      {
+        "blockId": 122,
+        "x": -60,
+        "y": 140
+      },
+      {
+        "blockId": 123,
+        "x": -320,
+        "y": 160
+      },
+      {
+        "blockId": 124,
+        "x": -580,
+        "y": 160
+      },
+      {
+        "blockId": 125,
+        "x": 1220,
+        "y": 1360
+      },
+      {
+        "blockId": 126,
+        "x": -160,
+        "y": 4800
+      },
+      {
+        "blockId": 127,
+        "x": -700,
+        "y": 4800
+      },
+      {
+        "blockId": 128,
+        "x": -1000,
+        "y": 4820
+      },
+      {
+        "blockId": 129,
+        "x": -440,
+        "y": 4940
+      },
+      {
+        "blockId": 130,
+        "x": -700,
+        "y": 4940
+      },
+      {
+        "blockId": 131,
+        "x": -1000,
+        "y": 4960
+      },
+      {
+        "blockId": 132,
+        "x": 1500,
+        "y": 1400
+      },
+      {
+        "blockId": 133,
+        "x": -60,
+        "y": 280
+      },
+      {
+        "blockId": 134,
+        "x": -320,
+        "y": 300
+      },
+      {
+        "blockId": 135,
+        "x": -580,
+        "y": 300
+      },
+      {
+        "blockId": 136,
+        "x": 1220,
+        "y": 1500
+      },
+      {
+        "blockId": 137,
+        "x": -160,
+        "y": 5240
+      },
+      {
+        "blockId": 138,
+        "x": -700,
+        "y": 5240
+      },
+      {
+        "blockId": 139,
+        "x": -1000,
+        "y": 5260
+      },
+      {
+        "blockId": 140,
+        "x": -440,
+        "y": 5380
+      },
+      {
+        "blockId": 141,
+        "x": -700,
+        "y": 5380
+      },
+      {
+        "blockId": 142,
+        "x": -1000,
+        "y": 5400
+      },
+      {
+        "blockId": 143,
+        "x": 1500,
+        "y": 1540
+      },
+      {
+        "blockId": 144,
+        "x": -60,
+        "y": 420
+      },
+      {
+        "blockId": 145,
+        "x": -320,
+        "y": 440
+      },
+      {
+        "blockId": 146,
+        "x": -580,
+        "y": 440
+      },
+      {
+        "blockId": 147,
+        "x": 1220,
+        "y": 1640
+      },
+      {
+        "blockId": 148,
+        "x": -160,
+        "y": 5660
+      },
+      {
+        "blockId": 149,
+        "x": -700,
+        "y": 5660
+      },
+      {
+        "blockId": 150,
+        "x": -1000,
+        "y": 5680
+      },
+      {
+        "blockId": 151,
+        "x": -440,
+        "y": 5800
+      },
+      {
+        "blockId": 152,
+        "x": -700,
+        "y": 5800
+      },
+      {
+        "blockId": 153,
+        "x": -1000,
+        "y": 5820
+      },
+      {
+        "blockId": 154,
+        "x": 1500,
+        "y": 1680
+      },
+      {
+        "blockId": 155,
+        "x": -60,
+        "y": 560
+      },
+      {
+        "blockId": 156,
+        "x": -320,
+        "y": 580
+      },
+      {
+        "blockId": 157,
+        "x": -580,
+        "y": 580
+      },
+      {
+        "blockId": 158,
+        "x": 1220,
+        "y": 1780
+      },
+      {
+        "blockId": 159,
+        "x": -160,
+        "y": 6080
+      },
+      {
+        "blockId": 160,
+        "x": -700,
+        "y": 6080
+      },
+      {
+        "blockId": 161,
+        "x": -1000,
+        "y": 6100
+      },
+      {
+        "blockId": 162,
+        "x": -440,
+        "y": 6220
+      },
+      {
+        "blockId": 163,
+        "x": -700,
+        "y": 6220
+      },
+      {
+        "blockId": 164,
+        "x": -1000,
+        "y": 6240
+      },
+      {
+        "blockId": 165,
+        "x": 1500,
+        "y": 1820
+      },
+      {
+        "blockId": 166,
+        "x": -60,
+        "y": 700
+      },
+      {
+        "blockId": 167,
+        "x": -320,
+        "y": 720
+      },
+      {
+        "blockId": 168,
+        "x": -580,
+        "y": 720
+      },
+      {
+        "blockId": 169,
+        "x": 1220,
+        "y": 1920
+      },
+      {
+        "blockId": 170,
+        "x": -140,
+        "y": 6480
+      },
+      {
+        "blockId": 171,
+        "x": -680,
+        "y": 6480
+      },
+      {
+        "blockId": 172,
+        "x": -980,
+        "y": 6500
+      },
+      {
+        "blockId": 173,
+        "x": -420,
+        "y": 6620
+      },
+      {
+        "blockId": 174,
+        "x": -680,
+        "y": 6620
+      },
+      {
+        "blockId": 175,
+        "x": -980,
+        "y": 6640
+      },
+      {
+        "blockId": 176,
+        "x": 1500,
+        "y": 1960
+      },
+      {
+        "blockId": 177,
+        "x": -60,
+        "y": 840
+      },
+      {
+        "blockId": 178,
+        "x": -320,
+        "y": 860
+      },
+      {
+        "blockId": 179,
+        "x": -580,
+        "y": 860
+      },
+      {
+        "blockId": 180,
+        "x": 1220,
+        "y": 2060
+      },
+      {
+        "blockId": 181,
+        "x": -140,
+        "y": 6900
+      },
+      {
+        "blockId": 182,
+        "x": -680,
+        "y": 6900
+      },
+      {
+        "blockId": 183,
+        "x": -980,
+        "y": 6920
+      },
+      {
+        "blockId": 184,
+        "x": -420,
+        "y": 7040
+      },
+      {
+        "blockId": 185,
+        "x": -680,
+        "y": 7040
+      },
+      {
+        "blockId": 186,
+        "x": -980,
+        "y": 7060
+      },
+      {
+        "blockId": 187,
+        "x": 1500,
+        "y": 2100
+      },
+      {
+        "blockId": 188,
+        "x": -60,
+        "y": 980
+      },
+      {
+        "blockId": 189,
+        "x": -320,
+        "y": 1000
+      },
+      {
+        "blockId": 190,
+        "x": -580,
+        "y": 1000
+      },
+      {
+        "blockId": 191,
+        "x": 1220,
+        "y": 2200
+      },
+      {
+        "blockId": 192,
+        "x": -140,
+        "y": 7280
+      },
+      {
+        "blockId": 193,
+        "x": -680,
+        "y": 7280
+      },
+      {
+        "blockId": 194,
+        "x": -980,
+        "y": 7300
+      },
+      {
+        "blockId": 195,
+        "x": -420,
+        "y": 7420
+      },
+      {
+        "blockId": 196,
+        "x": -680,
+        "y": 7420
+      },
+      {
+        "blockId": 197,
+        "x": -980,
+        "y": 7440
+      },
+      {
+        "blockId": 198,
+        "x": 1500,
+        "y": 2240
+      },
+      {
+        "blockId": 199,
+        "x": -60,
+        "y": 1120
+      },
+      {
+        "blockId": 200,
+        "x": -320,
+        "y": 1140
+      },
+      {
+        "blockId": 201,
+        "x": -580,
+        "y": 1140
+      },
+      {
+        "blockId": 202,
+        "x": 1220,
+        "y": 2340
+      },
+      {
+        "blockId": 203,
+        "x": -140,
+        "y": 7680
+      },
+      {
+        "blockId": 204,
+        "x": -680,
+        "y": 7680
+      },
+      {
+        "blockId": 205,
+        "x": -980,
+        "y": 7700
+      },
+      {
+        "blockId": 206,
+        "x": -420,
+        "y": 7820
+      },
+      {
+        "blockId": 207,
+        "x": -680,
+        "y": 7820
+      },
+      {
+        "blockId": 208,
+        "x": -980,
+        "y": 7840
+      },
+      {
+        "blockId": 209,
+        "x": 1500,
+        "y": 2380
+      },
+      {
+        "blockId": 210,
+        "x": -60,
+        "y": 1260
+      },
+      {
+        "blockId": 211,
+        "x": -320,
+        "y": 1280
+      },
+      {
+        "blockId": 212,
+        "x": -580,
+        "y": 1280
+      },
+      {
+        "blockId": 213,
+        "x": 1220,
+        "y": 2480
+      },
+      {
+        "blockId": 214,
+        "x": -140,
+        "y": 8080
+      },
+      {
+        "blockId": 215,
+        "x": -680,
+        "y": 8080
+      },
+      {
+        "blockId": 216,
+        "x": -980,
+        "y": 8100
+      },
+      {
+        "blockId": 217,
+        "x": -420,
+        "y": 8220
+      },
+      {
+        "blockId": 218,
+        "x": -680,
+        "y": 8220
+      },
+      {
+        "blockId": 219,
+        "x": -980,
+        "y": 8240
+      },
+      {
+        "blockId": 220,
+        "x": 2560,
+        "y": 4660
+      },
+      {
+        "blockId": 221,
+        "x": 2160,
+        "y": 4560
+      },
+      {
+        "blockId": 222,
+        "x": 1900,
+        "y": 4680
+      },
+      {
+        "blockId": 223,
+        "x": 2180,
+        "y": 4820
+      },
+      {
+        "blockId": 224,
+        "x": 1900,
+        "y": 4780
+      },
+      {
+        "blockId": 225,
+        "x": 1660,
+        "y": 4780
+      },
+      {
+        "blockId": 226,
+        "x": 1900,
+        "y": 4880
+      },
+      {
+        "blockId": 464,
+        "x": 1300,
+        "y": 3760
+      },
+      {
+        "blockId": 683,
+        "x": 1020,
+        "y": 3720
+      },
+      {
+        "blockId": 903,
+        "x": 1960,
+        "y": 3800
+      }
+    ],
+    "zoom": 0.5624399254256706,
+    "x": -412.79260404937077,
+    "y": -1633.2984705066024,
+    "frames": [
+      {
+        "x": -1080,
+        "y": 1640,
+        "width": 1185.45,
+        "height": 340,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col1",
+        "isCollapsed": false,
+        "blocks": [
+          51,
+          50,
+          54,
+          53,
+          52,
+          49
+        ]
+      },
+      {
+        "x": -1080,
+        "y": 2020,
+        "width": 1191.14,
+        "height": 360,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col2",
+        "isCollapsed": false,
+        "blocks": [
+          64,
+          61,
+          62,
+          65,
+          63,
+          60
+        ]
+      },
+      {
+        "x": -1080,
+        "y": 2420,
+        "width": 1201.31,
+        "height": 420,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col3",
+        "isCollapsed": false,
+        "blocks": [
+          76,
+          73,
+          72,
+          75,
+          74,
+          71
+        ]
+      },
+      {
+        "x": -1080,
+        "y": 2880,
+        "width": 1217.62,
+        "height": 400,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col4",
+        "isCollapsed": false,
+        "blocks": [
+          87,
+          86,
+          85,
+          82,
+          83,
+          84
+        ]
+      },
+      {
+        "x": -1080,
+        "y": 3320,
+        "width": 1219.07,
+        "height": 420,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col5",
+        "isCollapsed": false,
+        "blocks": [
+          98,
+          97,
+          96,
+          94,
+          95,
+          93
+        ]
+      },
+      {
+        "x": -3480,
+        "y": 960,
+        "width": 1245.42,
+        "height": 460,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "vertex",
+        "isCollapsed": false,
+        "blocks": [
+          14,
+          15,
+          13,
+          16,
+          12,
+          11
+        ]
+      },
+      {
+        "x": -1080,
+        "y": 3780,
+        "width": 1212.82,
+        "height": 420,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col6",
+        "isCollapsed": false,
+        "blocks": [
+          108,
+          109,
+          107,
+          104,
+          105,
+          106
+        ]
+      },
+      {
+        "x": -640,
+        "y": -920,
+        "width": 879.56,
+        "height": 2380,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "levels",
+        "isCollapsed": false,
+        "blocks": [
+          47,
+          46,
+          43,
+          58,
+          57,
+          56,
+          69,
+          68,
+          67,
+          80,
+          79,
+          78,
+          91,
+          90,
+          89,
+          102,
+          101,
+          100,
+          113,
+          112,
+          111,
+          124,
+          123,
+          122,
+          135,
+          134,
+          133,
+          146,
+          145,
+          144,
+          156,
+          155,
+          157,
+          167,
+          168,
+          166,
+          178,
+          179,
+          177,
+          189,
+          190,
+          188,
+          199,
+          200,
+          201,
+          210,
+          211,
+          212
+        ]
+      },
+      {
+        "x": -1080,
+        "y": 4240,
+        "width": 1216.55,
+        "height": 420,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col7",
+        "isCollapsed": false,
+        "blocks": [
+          119,
+          120,
+          118,
+          116,
+          117,
+          115
+        ]
+      },
+      {
+        "x": -1080,
+        "y": 4720,
+        "width": 1215.43,
+        "height": 400,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col8",
+        "isCollapsed": false,
+        "blocks": [
+          130,
+          131,
+          129,
+          126,
+          127,
+          128
+        ]
+      },
+      {
+        "x": -1080,
+        "y": 5160,
+        "width": 1217.96,
+        "height": 400,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col9",
+        "isCollapsed": false,
+        "blocks": [
+          141,
+          142,
+          140,
+          137,
+          138,
+          139
+        ]
+      },
+      {
+        "x": -1080,
+        "y": 5600,
+        "width": 1218.71,
+        "height": 380,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col10",
+        "isCollapsed": false,
+        "blocks": [
+          152,
+          153,
+          151,
+          148,
+          149,
+          150
+        ]
+      },
+      {
+        "x": -1080,
+        "y": 6020,
+        "width": 1210.88,
+        "height": 360,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col11",
+        "isCollapsed": false,
+        "blocks": [
+          163,
+          164,
+          162,
+          159,
+          160,
+          161
+        ]
+      },
+      {
+        "x": -1080,
+        "y": 6420,
+        "width": 1204.37,
+        "height": 380,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col12",
+        "isCollapsed": false,
+        "blocks": [
+          174,
+          175,
+          173,
+          171,
+          172,
+          170
+        ]
+      },
+      {
+        "x": -1080,
+        "y": 6840,
+        "width": 1209.54,
+        "height": 340,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col13",
+        "isCollapsed": false,
+        "blocks": [
+          185,
+          186,
+          184,
+          182,
+          181,
+          183
+        ]
+      },
+      {
+        "x": -1080,
+        "y": 7220,
+        "width": 1218.4,
+        "height": 360,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col14",
+        "isCollapsed": false,
+        "blocks": [
+          196,
+          197,
+          195,
+          193,
+          192,
+          194
+        ]
+      },
+      {
+        "x": -1080,
+        "y": 7620,
+        "width": 1220.61,
+        "height": 380,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col15",
+        "isCollapsed": false,
+        "blocks": [
+          207,
+          208,
+          206,
+          204,
+          203,
+          205
+        ]
+      },
+      {
+        "x": -1080,
+        "y": 8020,
+        "width": 1233.19,
+        "height": 380,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "col16",
+        "isCollapsed": false,
+        "blocks": [
+          218,
+          219,
+          217,
+          215,
+          214,
+          216
+        ]
+      },
+      {
+        "x": 1040,
+        "y": 160,
+        "width": 1101.52,
+        "height": 2560,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "combine masks",
+        "isCollapsed": false,
+        "blocks": [
+          48,
+          42,
+          59,
+          55,
+          41,
+          70,
+          66,
+          40,
+          81,
+          77,
+          39,
+          92,
+          88,
+          38,
+          103,
+          99,
+          37,
+          114,
+          110,
+          36,
+          125,
+          121,
+          35,
+          136,
+          132,
+          34,
+          147,
+          143,
+          33,
+          158,
+          154,
+          32,
+          169,
+          165,
+          31,
+          180,
+          176,
+          30,
+          191,
+          187,
+          29,
+          202,
+          198,
+          28,
+          213,
+          209,
+          27
+        ]
+      },
+      {
+        "x": 1600,
+        "y": 4480,
+        "width": 1258.6,
+        "height": 540,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "glow mask",
+        "isCollapsed": false,
+        "blocks": [
+          225,
+          224,
+          222,
+          226,
+          223,
+          220,
+          221
+        ]
+      },
+      {
+        "x": 975.968,
+        "y": 3521.7,
+        "width": 1616.94,
+        "height": 778.258,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "base color",
+        "isCollapsed": false,
+        "blocks": [
+          21,
+          20,
+          26,
+          25,
+          19,
+          464,
+          683,
+          903
+        ]
+      }
+    ]
+  },
+  "customType": "BABYLON.NodeMaterial",
+  "outputNodes": [
+    11,
+    17
+  ],
+  "blocks": [
+    {
+      "customType": "BABYLON.VertexOutputBlock",
+      "id": 11,
+      "name": "VertexOutput",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "vector",
+          "inputName": "vector",
+          "targetBlockId": 12,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": []
+    },
+    {
+      "customType": "BABYLON.TransformBlock",
+      "id": 12,
+      "name": "WorldPos * ViewProjectionTransform",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "vector",
+          "inputName": "vector",
+          "targetBlockId": 13,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "transform",
+          "inputName": "transform",
+          "targetBlockId": 16,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        },
+        {
+          "name": "xyz"
+        }
+      ],
+      "complementZ": 0,
+      "complementW": 1
+    },
+    {
+      "customType": "BABYLON.TransformBlock",
+      "id": 13,
+      "name": "WorldPos",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "vector",
+          "inputName": "vector",
+          "targetBlockId": 14,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "transform",
+          "inputName": "transform",
+          "targetBlockId": 15,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        },
+        {
+          "name": "xyz"
+        }
+      ],
+      "complementZ": 0,
+      "complementW": 1
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 14,
+      "name": "position",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 8,
+      "mode": 1,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 0,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": ""
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 15,
+      "name": "World",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 128,
+      "mode": 0,
+      "systemValue": 1,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 0,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": ""
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 16,
+      "name": "ViewProjection",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 128,
+      "mode": 0,
+      "systemValue": 4,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 0,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": ""
+    },
+    {
+      "customType": "BABYLON.FragmentOutputBlock",
+      "id": 17,
+      "name": "FragmentOutput",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "rgba"
+        },
+        {
+          "name": "rgb",
+          "inputName": "rgb",
+          "targetBlockId": 18,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "a"
+        }
+      ],
+      "outputs": []
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 18,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 19,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 220,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.LerpBlock",
+      "id": 19,
+      "name": "Lerp",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 903,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 25,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "gradient",
+          "inputName": "gradient",
+          "targetBlockId": 27,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 903,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 464,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 20,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.ScaleBlock",
+      "id": 464,
+      "name": "Scale",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 683,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "factor",
+          "inputName": "factor",
+          "targetBlockId": 22,
+          "targetConnectionName": "g"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 683,
+      "name": "Color3",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 32,
+      "mode": 0,
+      "systemValue": null,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 0,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "BABYLON.Color3",
+      "value": [
+        0.09803921568627451,
+        0.09803921568627451,
+        0.09803921568627451
+      ]
+    },
+    {
+      "customType": "BABYLON.TextureBlock",
+      "id": 22,
+      "name": "visualizerMask",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "uv",
+          "inputName": "uv",
+          "targetBlockId": 24,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "rgba"
+        },
+        {
+          "name": "rgb"
+        },
+        {
+          "name": "r"
+        },
+        {
+          "name": "g"
+        },
+        {
+          "name": "b"
+        },
+        {
+          "name": "a"
+        }
+      ],
+      "convertToGammaSpace": false,
+      "convertToLinearSpace": false,
+      "fragmentOnly": false,
+      "texture": {
+        "tags": null,
+        "url": "assets/visualizerMask_mask.png",
+        "uOffset": 0,
+        "vOffset": 0,
+        "uScale": 1,
+        "vScale": 1,
+        "uAng": 0,
+        "vAng": 0,
+        "wAng": 0,
+        "uRotationCenter": 0.5,
+        "vRotationCenter": 0.5,
+        "wRotationCenter": 0.5,
+        "isBlocking": true,
+        "uniqueId": 231,
+        "name": "assets/visualizerMask_mask.png",
+        "hasAlpha": false,
+        "getAlphaFromRGB": false,
+        "level": 1,
+        "coordinatesIndex": 0,
+        "coordinatesMode": 0,
+        "wrapU": 1,
+        "wrapV": 1,
+        "wrapR": 1,
+        "anisotropicFilteringLevel": 4,
+        "isCube": false,
+        "is3D": false,
+        "is2DArray": false,
+        "gammaSpace": true,
+        "invertZ": false,
+        "lodLevelInAlpha": false,
+        "lodGenerationOffset": 0,
+        "lodGenerationScale": 0,
+        "linearSpecularLOD": false,
+        "isRenderTarget": false,
+        "animations": [],
+        "invertY": true,
+        "samplingMode": 3
+      }
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 24,
+      "name": "uv",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 4,
+      "mode": 1,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 0,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": ""
+    },
+    {
+      "customType": "BABYLON.ScaleBlock",
+      "id": 20,
+      "name": "Scale",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 21,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "factor",
+          "inputName": "factor",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 21,
+      "name": "bulbColor",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 32,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 0,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "BABYLON.Color3",
+      "value": [
+        0.1411764705882353,
+        0.12549019607843137,
+        0.12549019607843137
+      ]
+    },
+    {
+      "customType": "BABYLON.ScaleBlock",
+      "id": 25,
+      "name": "Scale",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 26,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "factor",
+          "inputName": "factor",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.GradientBlock",
+      "id": 26,
+      "name": "Gradient",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "gradient",
+          "inputName": "gradient",
+          "targetBlockId": 22,
+          "targetConnectionName": "b"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "colorSteps": [
+        {
+          "step": 0,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "step": 0.25,
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "step": 0.26,
+          "color": {
+            "r": 0.9764705882352941,
+            "g": 0.7764705882352941,
+            "b": 0.06274509803921569
+          }
+        },
+        {
+          "step": 0.5,
+          "color": {
+            "r": 0.9725490196078431,
+            "g": 0.7764705882352941,
+            "b": 0.06274509803921569
+          }
+        },
+        {
+          "step": 0.51,
+          "color": {
+            "r": 0.027450980392156862,
+            "g": 0.8745098039215686,
+            "b": 0.12549019607843137
+          }
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 27,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 28,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 209,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 28,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 29,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 198,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 29,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 30,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 187,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 30,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 31,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 176,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 31,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 32,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 165,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 32,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 33,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 154,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 33,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 34,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 143,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 34,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 35,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 132,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 35,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 36,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 121,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 36,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 37,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 110,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 37,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 38,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 99,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 38,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 39,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 88,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 39,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 40,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 77,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 40,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 41,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 66,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.AddBlock",
+      "id": 41,
+      "name": "Add",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 42,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 55,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 42,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 43,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 48,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 43,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 46,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.PosterizeBlock",
+      "id": 44,
+      "name": "Posterize",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "b"
+        },
+        {
+          "name": "steps",
+          "inputName": "steps",
+          "targetBlockId": 45,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 45,
+      "name": "numberLights",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 0,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 20
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 46,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 47,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 47,
+      "name": "col1",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 48,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 49,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 49,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 50,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 52,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 50,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 51,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 51,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 52,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 53,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 53,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 54,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 54,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.06
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 55,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 56,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 59,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 56,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 57,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 57,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 58,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 58,
+      "name": "col2",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 59,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 60,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 60,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 61,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 63,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 61,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 62,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 62,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.07
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 63,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 64,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 64,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 65,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 65,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.13
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 66,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 67,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 70,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 67,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 68,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 68,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 69,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 69,
+      "name": "col3",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 70,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 71,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 71,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 72,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 74,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 72,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 73,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 73,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.13
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 74,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 75,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 75,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 76,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 76,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.19
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 77,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 78,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 81,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 78,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 79,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 79,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 80,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 80,
+      "name": "col4",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 81,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 82,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 82,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 83,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 85,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 83,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 84,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 84,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.19
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 85,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 86,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 86,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 87,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 87,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.25
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 88,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 89,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 92,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 89,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 90,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 90,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 91,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 91,
+      "name": "col5",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 92,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 93,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 93,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 94,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 96,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 94,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 95,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 95,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.25
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 96,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 97,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 97,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 98,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 98,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.32
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 99,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 100,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 103,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 100,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 101,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 101,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 102,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 102,
+      "name": "col6",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 103,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 104,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 104,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 105,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 107,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 105,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 106,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 106,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.31
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 107,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 108,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 108,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 109,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 109,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.37
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 110,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 111,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 114,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 111,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 112,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 112,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 113,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 113,
+      "name": "col7",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 114,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 115,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 115,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 116,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 118,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 116,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 117,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 117,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.37
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 118,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 119,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 119,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 120,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 120,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.44
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 121,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 122,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 125,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 122,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 123,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 123,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 124,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 124,
+      "name": "col8",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 125,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 126,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 126,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 127,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 129,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 127,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 128,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 128,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.44
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 129,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 130,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 130,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 131,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 131,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.49
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 132,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 133,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 136,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 133,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 134,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 134,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 135,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 135,
+      "name": "col9",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 136,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 137,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 137,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 138,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 140,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 138,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 139,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 139,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.49
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 140,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 141,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 141,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 142,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 142,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.57
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 143,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 144,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 147,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 144,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 145,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 145,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 146,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 146,
+      "name": "col10",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 147,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 148,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 148,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 149,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 151,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 149,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 150,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 150,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.57
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 151,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 152,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 152,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 153,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 153,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.63
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 154,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 155,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 158,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 155,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 156,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 156,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 157,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 157,
+      "name": "col11",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 158,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 159,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 159,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 160,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 162,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 160,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 161,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 161,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.63
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 162,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 163,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 163,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 164,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 164,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.68
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 165,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 166,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 169,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 166,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 167,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 167,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 168,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 168,
+      "name": "col12",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 169,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 170,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 170,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 171,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 173,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 171,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 172,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 172,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.68
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 173,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 174,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 174,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 175,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 175,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.75
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 176,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 177,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 180,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 177,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 178,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 178,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 179,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 179,
+      "name": "col13",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 180,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 181,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 181,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 182,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 184,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 182,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 183,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 183,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.75
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 184,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 185,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 185,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 186,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 186,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.81
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 187,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 188,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 191,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 188,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 189,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 189,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 190,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 190,
+      "name": "col14",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 191,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 192,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 192,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 193,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 195,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 193,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 194,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 194,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.81
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 195,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 196,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 196,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 197,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 197,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.87
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 198,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 199,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 202,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 199,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 200,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 200,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 201,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 201,
+      "name": "col15",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 202,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 203,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 203,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 204,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 206,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 204,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 205,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 205,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.87
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 206,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 207,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 207,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 208,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 208,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.94
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 209,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 210,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 213,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 210,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 44,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 211,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 211,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 212,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 212,
+      "name": "col16",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 213,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 22,
+          "targetConnectionName": "r"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 214,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 214,
+      "name": "Multiply",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 215,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 217,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 215,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 216,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 216,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.94
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 217,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 218,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 218,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 22,
+          "targetConnectionName": "a"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 219,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 219,
+      "name": "Float",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 1
+    },
+    {
+      "customType": "BABYLON.LerpBlock",
+      "id": 220,
+      "name": "Lerp",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 221,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 222,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "gradient",
+          "inputName": "gradient",
+          "targetBlockId": 223,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.ScaleBlock",
+      "id": 221,
+      "name": "Scale",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 25,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "factor",
+          "inputName": "factor",
+          "targetBlockId": 27,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 222,
+      "name": "white",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 32,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 0,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "BABYLON.Color3",
+      "value": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "customType": "BABYLON.StepBlock",
+      "id": 223,
+      "name": "Step",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "value",
+          "inputName": "value",
+          "targetBlockId": 224,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "edge",
+          "inputName": "edge",
+          "targetBlockId": 226,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.OneMinusBlock",
+      "id": 224,
+      "name": "One minus",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 225,
+          "targetConnectionName": "output"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 225,
+      "name": "glowMask",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": true,
+      "min": 0,
+      "max": 1,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 226,
+      "name": "glowMaskLimit",
+      "comments": "",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "visibleInInspector": false,
+      "min": 0,
+      "max": 0,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": true,
+      "groupInInspector": "",
+      "valueType": "number",
+      "value": 0.5
+    }
+  ]
+}

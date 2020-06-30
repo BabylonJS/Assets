@@ -1,0 +1,16 @@
+{
+  "folder": "Mesh_Primitives",
+  "models": [
+    {
+      "fileName": "Mesh_Primitives_00.gltf",
+      "sampleImageName": "Figures/SampleImages/Mesh_Primitives_00.png",
+      "camera": {
+        "translation": [
+          0.0,
+          0.0,
+          1.3
+        ]
+      }
+    }
+  ]
+}

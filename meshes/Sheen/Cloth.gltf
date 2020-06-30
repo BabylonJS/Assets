@@ -1,0 +1,171 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "babylon.js glTF exporter for maya 2018 v1.3.1"
+    },
+    "extensionsUsed": ["KHR_materials_sheen", "KHR_materials_specular"],
+    "scene": 0,
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ],
+            "extensions": {}
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "translation": [
+                -0.3,
+                2.0,
+                -0.4
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.113203213,
+                0.9935719
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "name": "clothFoldsMesh"
+        }
+    ],
+    "meshes": [
+        {
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 1,
+                        "NORMAL": 2,
+                        "TANGENT": 3,
+                        "TEXCOORD_0": 4
+                    },
+                    "indices": 0,
+                    "mode": 4,
+                    "material": 0
+                }
+            ],
+            "name": "clothFoldsMesh"
+        }
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 230496,
+            "type": "SCALAR",
+            "name": "accessorIndices"
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 38809,
+            "max": [
+                0.821654439,
+                -0.6350052,
+                2.13996
+            ],
+            "min": [
+                -3.50364518,
+                -2.22175765,
+                -1.9413501
+            ],
+            "type": "VEC3",
+            "name": "accessorPositions"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 465708,
+            "componentType": 5126,
+            "count": 38809,
+            "type": "VEC3",
+            "name": "accessorNormals"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 38809,
+            "type": "VEC4",
+            "name": "accessorTangents"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5126,
+            "count": 38809,
+            "type": "VEC2",
+            "name": "accessorUVs"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 460992,
+            "name": "bufferViewScalar"
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 460992,
+            "byteLength": 931416,
+            "byteStride": 12,
+            "name": "bufferViewFloatVec3"
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1392408,
+            "byteLength": 620944,
+            "byteStride": 16,
+            "name": "bufferViewFloatVec4"
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2013352,
+            "byteLength": 310472,
+            "byteStride": 8,
+            "name": "bufferViewFloatVec2"
+        }
+    ],
+    "buffers": [
+        {
+            "uri": "Cloth.bin",
+            "byteLength": 2323824
+        }
+    ],
+    "materials": [
+        {
+            "name": "sheen",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.0470588235294118,
+                    0.0705882352941176,
+                    0.5490196078431373,
+                    1.0
+                ],
+                "metallicFactor": 0.33,
+                "roughnessFactor": 0.6
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "alphaMode": "OPAQUE",
+            "extensions": {
+                "KHR_materials_sheen": {
+                    "sheenColorFactor": [
+                        0.0235294117647059,
+                        0.0352941176470588,
+                        0.2745098039215686
+                    ]
+                },
+                "KHR_materials_specular": {
+                    "specularFactor": 0.18
+                }
+            }
+        }
+    ]
+}
