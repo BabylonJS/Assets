@@ -4,3 +4,8 @@
 *.kra~
 *.log
 Thumbs.db
+
+# MAYA
+workspace.mel
+.mayaSwatches
+autosave
