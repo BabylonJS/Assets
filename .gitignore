@@ -9,3 +9,6 @@ Thumbs.db
 workspace.mel
 .mayaSwatches
 autosave
+
+# Local Netlify folder
+.netlify
