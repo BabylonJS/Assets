@@ -1,2 +1,14 @@
+*.blend1
+*.blend2
+*.DS_Store
+*.kra~
+*.log
+Thumbs.db
+
+# MAYA
+workspace.mel
+.mayaSwatches
+autosave
+
 # Local Netlify folder
 .netlify
