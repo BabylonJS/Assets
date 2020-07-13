@@ -1,4 +1,4 @@
 # Babylon.js Assets
 
-A place for storing all the assets that are used By Babylon.js
+A place for storing all the assets that are used by Babylon.js website, core engine or official playgrounds.
 
