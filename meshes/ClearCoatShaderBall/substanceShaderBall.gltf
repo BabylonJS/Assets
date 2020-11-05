@@ -1,0 +1,252 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "babylon.js glTF exporter for Maya 2018 v20200917.1"
+    },
+    "extensionsUsed": [
+        "KHR_texture_transform",
+        "KHR_materials_clearcoat"
+    ],
+    "extensionsRequired": [
+        "KHR_texture_transform",
+        "KHR_materials_clearcoat"
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "name": "substanceShaderBall"
+        }
+    ],
+    "meshes": [
+        {
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 1,
+                        "NORMAL": 2,
+                        "TEXCOORD_0": 3
+                    },
+                    "indices": 0,
+                    "material": 0
+                }
+            ],
+            "name": "substanceShaderBall"
+        }
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5125,
+            "count": 167226,
+            "type": "SCALAR",
+            "name": "accessorIndices"
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 167226,
+            "max": [
+                0.757503,
+                0.776383936,
+                0.800648
+            ],
+            "min": [
+                -0.730726,
+                -0.720738,
+                -0.688015
+            ],
+            "type": "VEC3",
+            "name": "accessorPositions"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 2006712,
+            "componentType": 5126,
+            "count": 167226,
+            "type": "VEC3",
+            "name": "accessorNormals"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 167226,
+            "type": "VEC2",
+            "name": "accessorUVs"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 668904,
+            "name": "bufferViewScalar"
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 668904,
+            "byteLength": 4013424,
+            "byteStride": 12,
+            "name": "bufferViewFloatVec3"
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 4682328,
+            "byteLength": 1337808,
+            "byteStride": 8,
+            "name": "bufferViewFloatVec2"
+        }
+    ],
+    "buffers": [
+        {
+            "uri": "substanceShaderBall.bin",
+            "byteLength": 6020136
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 2,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "scale": [
+                                3.0,
+                                -3.0
+                            ]
+                        }
+                    }
+                },
+                "metallicRoughnessTexture": {
+                    "index": 1,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "scale": [
+                                3.0,
+                                -3.0
+                            ]
+                        }
+                    }
+                }
+            },
+            "normalTexture": {
+                "index": 0,
+                "extensions": {
+                    "KHR_texture_transform": {
+                        "scale": [
+                            3.0,
+                            -3.0
+                        ]
+                    }
+                }
+            },
+            "occlusionTexture": {
+                "index": 1,
+                "extensions": {
+                    "KHR_texture_transform": {
+                        "scale": [
+                            3.0,
+                            -3.0
+                        ]
+                    }
+                }
+            },
+            "name": "substanceShaderBallMat",
+            "extensions": {
+                "KHR_materials_clearcoat": {
+                    "clearcoatFactor": 1.0,
+                    "clearcoatRoughnessFactor": 1.0,
+                    "clearcoatTexture": {
+                        "index": 3,
+                        "extensions": {
+                            "KHR_texture_transform": {
+                                "scale": [
+                                    3.0,
+                                    -3.0
+                                ]
+                            }
+                        }
+                    },
+                    "clearcoatRoughnessTexture": {
+                        "index": 3,
+                        "extensions": {
+                            "KHR_texture_transform": {
+                                "scale": [
+                                    3.0,
+                                    -3.0
+                                ]
+                            }
+                        }
+                    },
+                    "clearcoatNormalTexture": {
+                        "index": 4,
+                        "extensions": {
+                            "KHR_texture_transform": {
+                                "scale": [
+                                    3.0,
+                                    -3.0
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "textures": [
+        {
+            "sampler": 0,
+            "source": 0,
+            "name": "CarbonFiber_normal.png"
+        },
+        {
+            "sampler": 0,
+            "source": 1,
+            "name": "CarbonFiber_orm.png"
+        },
+        {
+            "sampler": 0,
+            "source": 2,
+            "name": "CarbonFiber_basecolor.png"
+        },
+        {
+            "sampler": 0,
+            "source": 3,
+            "name": "CarbonFiber_clearcoat.png"
+        },
+        {
+            "sampler": 0,
+            "source": 4,
+            "name": "CarbonFiber_clearcoat_normal.png"
+        }
+    ],
+    "images": [
+        {
+            "uri": "CarbonFiber_normal.png"
+        },
+        {
+            "uri": "CarbonFiber_orm.png"
+        },
+        {
+            "uri": "CarbonFiber_basecolor.png"
+        },
+        {
+            "uri": "CarbonFiber_clearcoat.png"
+        },
+        {
+            "uri": "CarbonFiber_clearcoat_normal.png"
+        }
+    ],
+    "samplers": [
+        {
+            "magFilter": 9729,
+            "minFilter": 9987
+        }
+    ]
+}
