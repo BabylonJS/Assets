@@ -1,0 +1,950 @@
+# Materials for converted sdkmesh
+
+newmtl ___Default____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka wall_tex_a.png
+map_Kd wall_tex_a.png
+
+newmtl ___Default____Standard__1
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka wall_tex_a.png
+map_Kd wall_tex_a.png
+
+newmtl mav_body____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka mav_b_body.png
+map_Kd mav_b_body.png
+
+newmtl mav_light____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka mav_b_lit.png
+map_Kd mav_b_lit.png
+
+newmtl mav_ring____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka mav_a_ring.png
+map_Kd mav_a_ring.png
+
+newmtl tank_top____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka tank_top.png
+map_Kd tank_top.png
+
+newmtl tank_side____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka tank_side.png
+map_Kd tank_side.png
+
+newmtl tower_side____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka tow_rib_ a.png
+map_Kd tow_rib_ a.png
+
+newmtl tow_tex____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka tw_tex_a.png
+map_Kd tw_tex_a.png
+
+newmtl red_girder_a____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka red_girder_a.png
+map_Kd red_girder_a.png
+
+newmtl rebar____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka re_bar_a.png
+map_Kd re_bar_a.png
+
+newmtl sm_grate____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka grt_sm_a.png
+map_Kd grt_sm_a.png
+
+newmtl hz_a____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka hz_a.png
+map_Kd hz_a.png
+
+newmtl panel____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka grt_sm_b.png
+map_Kd grt_sm_b.png
+
+newmtl sm_cement_panel____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka tw_tex_a.png
+map_Kd tw_tex_a.png
+
+newmtl ring_a____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka ring_a.png
+map_Kd ring_a.png
+
+newmtl pipe_a____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka pipe_a.png
+map_Kd pipe_a.png
+
+newmtl pipe_c____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka pipe_e.png
+map_Kd pipe_e.png
+
+newmtl pipe_b____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka pipe_b.png
+map_Kd pipe_b.png
+
+newmtl pipe_d____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka pipe_d.png
+map_Kd pipe_d.png
+
+newmtl ring_a____Standard___0
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka ring_a.png
+map_Kd ring_a.png
+
+newmtl plan_d____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka crn_pan_d.png
+map_Kd crn_pan_d.png
+
+newmtl plan_f____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka crn_pan_f.png
+map_Kd crn_pan_f.png
+
+newmtl plan_g____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka crn_pan_g.png
+map_Kd crn_pan_g.png
+
+newmtl plan_e____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka crn_pan_e.png
+map_Kd crn_pan_e.png
+
+newmtl crn_pan_a____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka crn_pan_i.png
+map_Kd crn_pan_i.png
+
+newmtl pan_b____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka crn_pan_c.png
+map_Kd crn_pan_c.png
+
+newmtl grating____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka grt_sm_a.png
+map_Kd grt_sm_a.png
+
+newmtl sm_pan_a____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka sm_pan_a.png
+map_Kd sm_pan_a.png
+
+newmtl gravel_c____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka gravel_c.png
+map_Kd gravel_c.png
+
+newmtl test_ground_a____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka test_ground_b.png
+map_Kd test_ground_b.png
+
+newmtl pad_round_a____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka pad_big_b.png
+map_Kd pad_big_b.png
+
+newmtl gravel____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka gravel_a.png
+map_Kd gravel_a.png
+
+newmtl concrete_pad____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka pad_pan_a.png
+map_Kd pad_pan_a.png
+
+newmtl hill_mound_a____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka hill_mound_b.png
+map_Kd hill_mound_b.png
+
+newmtl dirt_turnaround_a____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka road_loop_a.png
+map_Kd road_loop_a.png
+
+newmtl trench_surround____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka trench_surround.png
+map_Kd trench_surround.png
+
+newmtl trench____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka trench_b.png
+map_Kd trench_b.png
+
+newmtl road_end____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka road_end.png
+map_Kd road_end.png
+
+newmtl road_end_b____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka road_end_b.png
+map_Kd road_end_b.png
+
+newmtl road_end_a____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka road_end_a.png
+map_Kd road_end_a.png
+
+newmtl road_straight____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka road_st_a.png
+map_Kd road_st_a.png
+
+newmtl concrete_edge____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka con_edge.png
+map_Kd con_edge.png
+
+newmtl trench_end____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka trench_end.png
+map_Kd trench_end.png
+
+newmtl truss____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka truss_a.png
+map_Kd truss_a.png
+
+newmtl fan_shaft____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka fan_housing_b.png
+map_Kd fan_housing_b.png
+
+newmtl fan_blade_map
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka fan_blde.png
+map_Kd fan_blde.png
+
+newmtl Material__55____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka fan_hub.png
+map_Kd fan_hub.png
+
+newmtl truss_end____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka truss_end.png
+map_Kd truss_end.png
+
+newmtl tow_tex____Standard___0
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka tw_tex_a.png
+map_Kd tw_tex_a.png
+
+newmtl tower_side____Standard___0
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka tow_rib_ a.png
+map_Kd tow_rib_ a.png
+
+newmtl tower_cap____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka tank_top.png
+map_Kd tank_top.png
+
+newmtl container_gry____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka container_gry_num.png
+map_Kd container_gry_num.png
+
+newmtl container_orn____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka container_orn_num.png
+map_Kd container_orn_num.png
+
+newmtl container_grn____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka container_grn_num.png
+map_Kd container_grn_num.png
+
+newmtl command_tower____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka command_a.png
+map_Kd command_a.png
+
+newmtl rebar_b____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka re_bar_a.png
+map_Kd re_bar_a.png
+
+newmtl floor_top____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka ele_floor.png
+map_Kd ele_floor.png
+
+newmtl elevator____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka yellow_girder_a.png
+map_Kd yellow_girder_a.png
+
+newmtl bottom_ele____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka ele_bot.png
+map_Kd ele_bot.png
+
+newmtl grabbers____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka ele_support.png
+map_Kd ele_support.png
+
+newmtl light____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka crane_light.png
+map_Kd crane_light.png
+
+newmtl rails____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka rail.png
+map_Kd rail.png
+
+newmtl container_hab____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka container_hab_num.png
+map_Kd container_hab_num.png
+
+newmtl phong1
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka crn_pan_a.png
+map_Kd crn_pan_a.png
+
+newmtl crn_pan_a____Standard___0
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka crn_pan_i.png
+map_Kd crn_pan_i.png
+
+newmtl walkways____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka walkway_a.png
+map_Kd walkway_a.png
+
+newmtl orig_strut_cage____Standard__1
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka yellow_girder_a.png
+map_Kd yellow_girder_a.png
+
+newmtl wall_nolite____Standard__2
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka wall_tex_b.png
+map_Kd wall_tex_b.png
+
+newmtl ele_track____Standard__2
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka ele_track_a.png
+map_Kd ele_track_a.png
+
+newmtl stripe____Standard__2
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka tow_rib_c.png
+map_Kd tow_rib_c.png
+
+newmtl crane_clamp____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka crn_clamp_a.png
+map_Kd crn_clamp_a.png
+
+newmtl crane_wheel____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka crane_wheel.png
+map_Kd crane_wheel.png
+
+newmtl orig_wheel_house____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka wheel_house.png
+map_Kd wheel_house.png
+
+newmtl crn_pan_a____Standard__1
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka crn_pan_i.png
+map_Kd crn_pan_i.png
+
+newmtl pan_b____Standard__1
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka crn_pan_c.png
+map_Kd crn_pan_c.png
+
+newmtl orig_basket_map____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka basket_map.png
+map_Kd basket_map.png
+
+newmtl crane_light____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka crane_light.png
+map_Kd crane_light.png
+
+newmtl crane_light_b____Standard__
+Ns 10.0000
+Ni 1.5000
+Tr 0.0000
+illum 2
+Ka 0.5880 0.5880 0.5880
+Kd 0.5880 0.5880 0.5880
+Ks 0 0 0
+Ks 0 0 0
+map_Ka crane_light.png
+map_Kd crane_light.png
+
