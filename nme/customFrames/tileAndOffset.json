@@ -3,38 +3,38 @@
     "locations": [
       {
         "blockId": 33829,
-        "x": 1160,
+        "x": 1400,
         "y": 840
       },
       {
         "blockId": 33823,
-        "x": 1460,
+        "x": 1700,
         "y": 840
       },
       {
         "blockId": 33822,
-        "x": 1740,
+        "x": 1980,
         "y": 780
       },
       {
         "blockId": 33833,
-        "x": 1460,
+        "x": 1700,
         "y": 980
       },
       {
         "blockId": 33832,
-        "x": 1740,
+        "x": 1980,
         "y": 1020
       },
       {
         "blockId": 33821,
-        "x": 2020,
+        "x": 2260,
         "y": 820
       }
     ],
     "frames": [
       {
-        "x": 1060,
+        "x": 1300,
         "y": 720,
         "width": 1215.6,
         "height": 440.988,
@@ -131,7 +131,7 @@
           "targetBlockId": 33824,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
-          "exposedPortPosition": 1
+          "exposedPortPosition": 3
         },
         {
           "name": "right",
@@ -166,7 +166,7 @@
           "targetBlockId": 33831,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
-          "exposedPortPosition": 2
+          "exposedPortPosition": 1
         },
         {
           "name": "right",
@@ -210,7 +210,7 @@
           "targetBlockId": 33834,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
-          "exposedPortPosition": 3
+          "exposedPortPosition": 4
         }
       ],
       "outputs": [
@@ -245,7 +245,7 @@
           "targetBlockId": 33838,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
-          "exposedPortPosition": 4
+          "exposedPortPosition": 2
         }
       ],
       "outputs": [
