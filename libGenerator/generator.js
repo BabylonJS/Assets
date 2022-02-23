@@ -27,8 +27,8 @@ Object.keys(structure).forEach((dir) => {
   structure[dir].forEach((file) => {
     source += `
     "${file.name}": {
-        fullPath: "${file.fullPath}",
-        baseDirectory: "${file.baseDirectory}",
+        fullPath: "https://assets.babylonjs.com/${file.fullPath}",
+        baseDirectory: "https://assets.babylonjs.com/${file.baseDirectory}",
         description: "${file.description}",
         thumbnail: "${file.thumbnail}",
         filename: "${file.filename}"
