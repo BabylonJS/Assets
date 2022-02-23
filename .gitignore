@@ -4,6 +4,8 @@
 *.kra~
 *.log
 Thumbs.db
+generated
+node_modules
 
 # MAYA
 workspace.mel

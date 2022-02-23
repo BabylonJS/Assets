@@ -1,0 +1,18 @@
+{
+  "name": "babylon-assets-lib-generator",
+  "version": "1.0.0",
+  "description": "Generating declaration for the assets library",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "update-structure": "node ./structureGenerator.js",
+    "generate": "node ./generator.js"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "glob": "^7.2.0",
+    "image-thumbnail": "^1.0.14",
+    "puppeteer": "^13.4.0"
+  }
+}
