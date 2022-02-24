@@ -12,11 +12,18 @@ if (!fs.existsSync(`${baseDirectory}/generated`)) {
 let declaration = `
 declare namespace Assets {
     interface Asset {
-        description: string;
-        thumbnail: string;
-        fullPath: string;
+        /**
+         * The full path of the asset
+         */
+        path: string;
+        /**
+         * The filename of the assets
+         */
         filename: string;
-        baseDirectory: string;
+        /**
+         * The base URL of the asset
+         */
+        rootUrl: string;
     }
 `;
 let source = `
@@ -27,10 +34,8 @@ Object.keys(structure).forEach((dir) => {
   structure[dir].forEach((file) => {
     source += `
     "${file.name}": {
-        fullPath: "https://assets.babylonjs.com/${file.fullPath}",
-        baseDirectory: "https://assets.babylonjs.com/${file.baseDirectory}",
-        description: "${file.description}",
-        thumbnail: "${file.thumbnail}",
+        path: "https://assets.babylonjs.com/${file.path}",
+        rootUrl: "https://assets.babylonjs.com/${file.rootUrl}/",
         filename: "${file.filename}"
     },`;
   });
@@ -41,13 +46,29 @@ Object.keys(structure).forEach((dir) => {
     const ${dir}: {
 `;
   structure[dir].forEach((file) => {
-    if (!file.name) {
-      console.log(file);
+    // save the thumbnail on the disk
+    const extensionMatch = /image\/(.*);/.exec(file.thumbnail || "");
+    if (file.thumbnail) {
+      const extension = extensionMatch[1];
+      var base64Data = file.thumbnail.replace(/^data:image\/(.*);base64,/, "");
+
+      require("fs").writeFile(
+        `${baseDirectory}/generated/${file.filename + "." + extension}`,
+        base64Data,
+        "base64",
+        function (err) {
+          err && console.log(err);
+        }
+      );
     }
+    const description = file.thumbnail
+      ? `![${file.name}](https://assets.babylonjs.com/generated/${
+          file.filename + "." + extensionMatch[1]
+        })`
+      : `${file.name} (${dir})`;
     declaration += `
     /**
-     * ${file.description}
-     * @thumbnail ${file.thumbnail}
+     * ${description}
      */
     "${file.name}": Asset,`;
   });

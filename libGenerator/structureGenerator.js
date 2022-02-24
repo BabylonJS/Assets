@@ -8,8 +8,6 @@ const glob = require("glob");
 const imageGenerator = require("image-thumbnail");
 const puppeteer = require("puppeteer");
 
-const generateModelThumbnails = process.env.GENERATE_THUMBNAILS || false;
-
 const getDirectories = (source) =>
   fs
     .readdirSync(source, { withFileTypes: true })
@@ -41,9 +39,11 @@ const fileTypes = {
   sound: ["mp3", "ogg", "wav"],
 };
 const process = async () => {
+  const generateModelThumbnails =
+    (process.env && process.env.GENERATE_THUMBNAILS === "true") || false;
   // 1. Launch the browser
   const browser = await puppeteer.launch({
-    headless: process.env.HEADLESS === "true",
+    headless: process.env && process.env.HEADLESS === "true",
   });
 
   const page = await browser.newPage();
@@ -64,16 +64,14 @@ const process = async () => {
           .relative(baseDirectory, file)
           .replace(/\\/g, "/");
         let index = structure[dir].findIndex(
-          (item) => item.fullPath === relativePath
+          (item) => item.path === relativePath
         );
         const extension = path.extname(file).replace(".", "");
         const newAsset = {
-          fullPath: relativePath,
-          baseDirectory: path.dirname(relativePath).replace(/\\/g, "/"),
+          path: relativePath,
+          rootUrl: path.dirname(relativePath).replace(/\\/g, "/"),
           filename: path.basename(file),
           name: path.basename(file, path.extname(file)),
-          description: `${path.basename(file)} (${dir})`,
-          thumbnail: "",
         };
         if (["png", "jpg"].includes(extension)) {
           try {
@@ -132,8 +130,8 @@ const process = async () => {
         }
         if (index !== -1) {
           structure[dir][index] = {
-            ...structure[dir][index],
             ...newAsset,
+            ...structure[dir][index],
           };
         } else {
           structure[dir].push(newAsset);

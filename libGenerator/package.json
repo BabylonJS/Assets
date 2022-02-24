@@ -1,7 +1,7 @@
 {
   "name": "babylon-assets-lib-generator",
   "version": "1.0.0",
-  "description": "Generating declaration for the assets library",
+   
   "main": "index.js",
   "private": true,
   "scripts": {
