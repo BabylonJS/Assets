@@ -143,5 +143,5 @@ const process = async () => {
   await browser.close();
 };
 process().then(() => {
-  fs.writeFileSync("../structure.json", JSON.stringify(structure, null, 2));
+  fs.writeFileSync("../structure.json", JSON.stringify(structure, null, 2) + '\n');
 });

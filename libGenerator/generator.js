@@ -31,22 +31,23 @@ window.Assets = {`;
 Object.keys(structure).forEach((dir) => {
   // generate source
   source += `${dir}: {`;
-  structure[dir].forEach((file) => {
-    source += `
-    "${file.name}": {
-        path: "https://assets.babylonjs.com/${file.path}",
-        rootUrl: "https://assets.babylonjs.com/${file.rootUrl}/",
-        filename: "${file.filename}"
-    },`;
-  });
-  source += `},`;
-
-  // generate declaration
   declaration += `
     const ${dir}: {
 `;
   structure[dir].forEach((file) => {
-    // save the thumbnail on the disk
+    // do nothing if the file doesn't start with a letter
+    if (!/^[a-zA-Z]/.test(file.name)) {
+      return;
+    }
+
+    source += `
+  "${file.name}": {
+    path: "https://assets.babylonjs.com/${file.path}",
+    rootUrl: "https://assets.babylonjs.com/${file.rootUrl}/",
+    filename: "${file.filename}"
+  },`;
+    const thumbnailNotBase64 =
+      file.thumbnail && file.thumbnail.indexOf("base64") === -1;
     const extensionMatch = /image\/(.*);/.exec(file.thumbnail || "");
     if (file.thumbnail) {
       const extension = extensionMatch[1];
@@ -61,10 +62,16 @@ Object.keys(structure).forEach((dir) => {
         }
       );
     }
+    const thumbnailLink =
+      file.thumbnail && thumbnailNotBase64
+        ? file.thumbnail
+        : extensionMatch
+        ? `https://assets.babylonjs.com/generated/${
+            file.filename + "." + extensionMatch[1]
+          }`
+        : "";
     const description = file.thumbnail
-      ? `![${file.name}](https://assets.babylonjs.com/generated/${
-          file.filename + "." + extensionMatch[1]
-        })`
+      ? `![${file.name}](${thumbnailLink})`
       : `${file.name} (${dir})`;
     declaration += `
     /**
@@ -72,6 +79,7 @@ Object.keys(structure).forEach((dir) => {
      */
     "${file.name}": Asset,`;
   });
+  source += `},`;
   declaration += `},`;
 });
 
