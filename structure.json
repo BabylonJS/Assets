@@ -5082,6 +5082,12 @@
       "rootUrl": "meshes/Yeti/Unity",
       "filename": "YetiUnity.gltf",
       "name": "YetiUnity"
+    },
+    {
+      "path": "meshes/στρογγυλεμένος % κύβος.glb",
+      "rootUrl": "meshes",
+      "filename": "στρογγυλεμένος % κύβος.glb",
+      "name": "στρογγυλεμένος % κύβος"
     }
   ],
   "nme": [
