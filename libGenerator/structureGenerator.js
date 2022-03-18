@@ -8,6 +8,8 @@ const glob = require("glob");
 const imageGenerator = require("image-thumbnail");
 const puppeteer = require("puppeteer");
 
+const generateMissingThumbnails = true;
+
 const getDirectories = (source) =>
   fs
     .readdirSync(source, { withFileTypes: true })
@@ -32,7 +34,8 @@ const mainDirectories = getDirectories(baseDirectory).filter(
 const structure = require("../structure.json");
 const fileTypes = {
   environments: ["jpg", "png", "dds", "env", "hdr"],
-  materials: ["jpg", "png"],
+  textures: ["jpg", "png", "dds", "env", "hdr", "3dl", "basis", "ktx"],
+  // materials: ["jpg", "png"],
   meshes: ["babylon", "obj", "stl", "gltf", "glb"],
   nme: ["json"],
   particles: ["json"],
@@ -43,7 +46,7 @@ const process = async () => {
     (process.env && process.env.GENERATE_THUMBNAILS === "true") || false;
   // 1. Launch the browser
   const browser = await puppeteer.launch({
-    headless: process.env && process.env.HEADLESS === "true",
+    headless: false, //process.env && process.env.HEADLESS === "true",
   });
 
   const page = await browser.newPage();
@@ -71,8 +74,12 @@ const process = async () => {
           path: relativePath,
           rootUrl: path.dirname(relativePath).replace(/\\/g, "/"),
           filename: path.basename(file),
-          name: path.basename(file, path.extname(file)),
+          name:
+            path.basename(file, path.extname(file)) +
+            "_" +
+            path.extname(file).substring(1),
         };
+
         if (["png", "jpg"].includes(extension)) {
           try {
             newAsset.thumbnail =
@@ -85,7 +92,10 @@ const process = async () => {
             console.error(err);
           }
         } else if (
-          generateModelThumbnails &&
+          (generateModelThumbnails ||
+            (generateMissingThumbnails &&
+              index !== -1 &&
+              !structure[dir][index].thumbnail)) &&
           ["babylon", "obj", "stl", "gltf", "glb"].includes(extension)
         ) {
           console.log("generating", relativePath);
@@ -98,6 +108,7 @@ const process = async () => {
               waitUntil: "networkidle0",
             }
           );
+          await page.waitForTimeout(200);
           await page.evaluate(
             (sel) => {
               const element = document.querySelector("#canvasZone");
@@ -143,5 +154,8 @@ const process = async () => {
   await browser.close();
 };
 process().then(() => {
-  fs.writeFileSync("../structure.json", JSON.stringify(structure, null, 2) + '\n');
+  fs.writeFileSync(
+    "../structure.json",
+    JSON.stringify(structure, null, 2) + "\n"
+  );
 });
