@@ -82,13 +82,13 @@ Object.keys(structure).forEach((dir) => {
         : "";
     const description = file.thumbnail
       ? `![${file.name}](${thumbnailLink})`
-      : `${file.name} (${dir})`;
+      : `${file.name} (${dir}) - preview unavailable`;
     declaration += `
     /**
      * ${description}
      */
     "${file.name}": Asset,`;
-    markdown += `| ${file.name}<br/>${file.path} | ![${file.name}](${thumbnailLink}) |
+    markdown += `| ${file.name}<br/>${file.path} | ${description} |
 `;
   });
   source += `},`;
