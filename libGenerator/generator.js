@@ -41,8 +41,8 @@ Object.keys(structure).forEach((dir) => {
   markdown += `
 ## ${dir}
 
-| Asset | Path | Preview |
-| ------------- |:-------------:| -----:|
+| Asset | Preview |
+| ------------- | -----:|
 `;
   structure[dir].forEach((file) => {
     // do nothing if the file doesn't start with a letter
@@ -88,7 +88,7 @@ Object.keys(structure).forEach((dir) => {
      * ${description}
      */
     "${file.name}": Asset,`;
-    markdown += `| ${file.name} | ${file.path} | ![${file.name}](${thumbnailLink}) |
+    markdown += `| ${file.name}<br/>${file.path} | ![${file.name}](${thumbnailLink}) |
 `;
   });
   source += `},`;
