@@ -1,0 +1,1 @@
+The environments directory is depricated. Please do not add any assets to this directory.
