@@ -9,6 +9,10 @@ if (!fs.existsSync(`${baseDirectory}/generated`)) {
   fs.mkdirSync(`${baseDirectory}/generated`);
 }
 
+let markdown = `
+# Assets
+`
+
 let declaration = `
 declare namespace Assets {
     interface Asset {
@@ -33,6 +37,12 @@ Object.keys(structure).forEach((dir) => {
   source += `${dir}: {`;
   declaration += `
     const ${dir}: {
+`;
+  markdown += `
+## ${dir}
+
+| Asset | Path | Preview |
+| ------------- |:-------------:| -----:|
 `;
   structure[dir].forEach((file) => {
     // do nothing if the file doesn't start with a letter
@@ -78,6 +88,8 @@ Object.keys(structure).forEach((dir) => {
      * ${description}
      */
     "${file.name}": Asset,`;
+    markdown += `| ${file.name} | ${file.path} | ![${file.name}](${thumbnailLink}) |
+`;
   });
   source += `},`;
   declaration += `},`;
@@ -88,3 +100,4 @@ declaration += "}";
 
 fs.writeFileSync(`${baseDirectory}/generated/Assets.js`, source);
 fs.writeFileSync(`${baseDirectory}/generated/Assets.d.ts`, declaration);
+fs.writeFileSync(`${baseDirectory}/Assets.md`, markdown);
