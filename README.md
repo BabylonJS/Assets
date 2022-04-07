@@ -13,4 +13,24 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-The list of available assets can be found at [Assets page](Assets.ms).
+The list of available assets can be found at [Assets page](Assets.md).
+
+## Adding new assets and updating the file structure
+
+Please add assets in the right directory, according to the assets type (textures, sounds, meshes, etc.).
+
+When adding assets make sure to update the file structure. To do that please run the following command in the `libGenerator` directory:
+
+```bash
+npm run update-structure
+```
+
+After that please run
+
+```bash
+npm run generate
+```
+
+To update the Assets.md file (if needed)
+
+Note that this is optional but recommended.
