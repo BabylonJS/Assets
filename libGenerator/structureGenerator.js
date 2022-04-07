@@ -25,16 +25,37 @@ const thumbnailOptions = {
 
 const baseDirectory = path.resolve(__dirname, "../");
 
-directoriesToFilter = ["libGenerator", "node_modules", "generated"];
+directoriesToFilter = [
+  "libGenerator",
+  "node_modules",
+  "generated",
+  "environments",
+  "ibl",
+];
 
 const mainDirectories = getDirectories(baseDirectory).filter(
   (dir) => !directoriesToFilter.includes(dir) && dir[0] !== "."
 );
 
+const texturesExtensions = [
+  "jpg",
+  "png",
+  "dds",
+  "env",
+  "hdr",
+  "3dl",
+  "basis",
+  "ktx",
+];
+
 const structure = require("../structure.json");
 const fileTypes = {
-  environments: ["jpg", "png", "dds", "env", "hdr"],
-  textures: ["jpg", "png", "dds", "env", "hdr", "3dl", "basis", "ktx"],
+  // environments: ["jpg", "png", "dds", "env", "hdr"],
+  textures: texturesExtensions,
+  luts: texturesExtensions,
+  photoDomes: texturesExtensions,
+  skyboxes: texturesExtensions,
+  sprites: texturesExtensions,
   // materials: ["jpg", "png"],
   meshes: ["babylon", "obj", "stl", "gltf", "glb"],
   nme: ["json"],
