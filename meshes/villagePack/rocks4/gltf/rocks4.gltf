@@ -1,0 +1,132 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "rocks4"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "rocks4",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.63235294818878174
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "rocks4",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "rocks3",
+      "uri": "rocks4_image0.jpg"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 244,
+      "max": [
+        0.46505317091941833,
+        0.48085317015647888,
+        0.32369232177734375
+      ],
+      "min": [
+        -0.60692036151885986,
+        -0.037118107080459595,
+        -0.49335098266601562
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 244,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 244,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 324,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2928,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2928,
+      "byteOffset": 2928
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1952,
+      "byteOffset": 5856
+    },
+    {
+      "buffer": 0,
+      "byteLength": 648,
+      "byteOffset": 7808
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 8456,
+      "uri": "rocks4.bin"
+    }
+  ]
+}

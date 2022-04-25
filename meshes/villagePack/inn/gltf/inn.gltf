@@ -1,0 +1,153 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "inn"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "inn",
+      "normalTexture": {
+        "index": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        },
+        "roughnessFactor": 0.5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "inn",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ],
+  "images": [
+    {
+      "name": "normal",
+      "uri": "inn_image0.png"
+    },
+    {
+      "name": "baseColor",
+      "uri": "inn_image1.png"
+    },
+    {
+      "name": "orm",
+      "uri": "inn_image2.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 21120,
+      "max": [
+        9.0774745941162109,
+        11.442139625549316,
+        4.8139982223510742
+      ],
+      "min": [
+        -9.0703420639038086,
+        -0.0024137641303241253,
+        -4.7705655097961426
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 21120,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 21120,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 27660,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 253440,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 253440,
+      "byteOffset": 253440
+    },
+    {
+      "buffer": 0,
+      "byteLength": 168960,
+      "byteOffset": 506880
+    },
+    {
+      "buffer": 0,
+      "byteLength": 55320,
+      "byteOffset": 675840
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 731160,
+      "uri": "inn.bin"
+    }
+  ]
+}

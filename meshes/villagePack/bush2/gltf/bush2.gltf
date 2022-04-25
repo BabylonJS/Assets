@@ -1,0 +1,153 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "bush2"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "bush2",
+      "normalTexture": {
+        "index": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        },
+        "roughnessFactor": 0.5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "bush2",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ],
+  "images": [
+    {
+      "name": "normal",
+      "uri": "bush2_image0.png"
+    },
+    {
+      "name": "baseColor",
+      "uri": "bush2_image1.png"
+    },
+    {
+      "name": "orm",
+      "uri": "bush2_image2.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 196,
+      "max": [
+        0.42282825708389282,
+        2.2636184692382812,
+        0.44959825277328491
+      ],
+      "min": [
+        -0.475163996219635,
+        -0.050529487431049347,
+        -0.38204768300056458
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 196,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 196,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 270,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2352,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2352,
+      "byteOffset": 2352
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1568,
+      "byteOffset": 4704
+    },
+    {
+      "buffer": 0,
+      "byteLength": 540,
+      "byteOffset": 6272
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6812,
+      "uri": "bush2.bin"
+    }
+  ]
+}

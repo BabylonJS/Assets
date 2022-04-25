@@ -1,0 +1,153 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "tree3"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "tree3",
+      "normalTexture": {
+        "index": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        },
+        "roughnessFactor": 0.5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "tree3",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ],
+  "images": [
+    {
+      "name": "normal",
+      "uri": "tree3_image0.png"
+    },
+    {
+      "name": "baseColor",
+      "uri": "tree3_image1.png"
+    },
+    {
+      "name": "orm",
+      "uri": "tree3_image2.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 592,
+      "max": [
+        2.7554562091827393,
+        6.9409880638122559,
+        3.149773120880127
+      ],
+      "min": [
+        -3.3597300052642822,
+        -0.10750263184309006,
+        -2.3077802658081055
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 592,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 592,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 720,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 7104,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7104,
+      "byteOffset": 7104
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4736,
+      "byteOffset": 14208
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1440,
+      "byteOffset": 18944
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 20384,
+      "uri": "tree3.bin"
+    }
+  ]
+}
