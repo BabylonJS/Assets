@@ -1,0 +1,153 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "lightPost2"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "lightPost2",
+      "normalTexture": {
+        "index": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        },
+        "roughnessFactor": 0.5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "lightPost2",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ],
+  "images": [
+    {
+      "name": "normal",
+      "uri": "lightPost2_image0.png"
+    },
+    {
+      "name": "baseColor",
+      "uri": "lightPost2_image1.png"
+    },
+    {
+      "name": "orm",
+      "uri": "lightPost2_image2.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1717,
+      "max": [
+        0.27627894282341003,
+        3.7446110248565674,
+        1.0715413093566895
+      ],
+      "min": [
+        -0.25895038247108459,
+        -0.0228725615888834,
+        -0.41797268390655518
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1717,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1717,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 2436,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 20604,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20604,
+      "byteOffset": 20604
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13736,
+      "byteOffset": 41208
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4872,
+      "byteOffset": 54944
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 59816,
+      "uri": "lightPost2.bin"
+    }
+  ]
+}

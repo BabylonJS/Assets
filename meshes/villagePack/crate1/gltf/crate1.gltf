@@ -1,0 +1,141 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "crate1"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "crate1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "crate1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ],
+  "images": [
+    {
+      "name": "crate1BaseColor",
+      "uri": "crate1_image0.png"
+    },
+    {
+      "name": "crate1ORM",
+      "uri": "crate1_image1.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 206,
+      "max": [
+        0.39416724443435669,
+        0.41422960162162781,
+        0.265651673078537
+      ],
+      "min": [
+        -0.39179331064224243,
+        -0.015181161463260651,
+        -0.26706826686859131
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 206,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 206,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 300,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2472,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2472,
+      "byteOffset": 2472
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1648,
+      "byteOffset": 4944
+    },
+    {
+      "buffer": 0,
+      "byteLength": 600,
+      "byteOffset": 6592
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 7192,
+      "uri": "crate1.bin"
+    }
+  ]
+}

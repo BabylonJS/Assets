@@ -1,0 +1,141 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "rocks1"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "rocks1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "rocks1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ],
+  "images": [
+    {
+      "name": "rocks1BaseColor",
+      "uri": "rocks1_image0.png"
+    },
+    {
+      "name": "rocks1ORM",
+      "uri": "rocks1_image1.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 185,
+      "max": [
+        3.1459386348724365,
+        1.6800791025161743,
+        3.0490081310272217
+      ],
+      "min": [
+        -2.0611085891723633,
+        -9.40241818625509E-07,
+        -2.8770196437835693
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 185,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 185,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 480,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2220,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2220,
+      "byteOffset": 2220
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1480,
+      "byteOffset": 4440
+    },
+    {
+      "buffer": 0,
+      "byteLength": 960,
+      "byteOffset": 5920
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6880,
+      "uri": "rocks1.bin"
+    }
+  ]
+}

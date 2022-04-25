@@ -1,0 +1,134 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "extras": {
+        "vertex_color_master_settings": {}
+      },
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "wallCorner"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "wallArch",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "wallCorner",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "cottage texture",
+      "uri": "wallCorner_image0.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 700,
+      "max": [
+        1.5180099010467529,
+        2.3865768909454346,
+        1.5211349725723267
+      ],
+      "min": [
+        -2.9234037399291992,
+        -5.9165383703430052E-08,
+        -2.9332029819488525
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 700,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 700,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 1050,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 8400,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8400,
+      "byteOffset": 8400
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5600,
+      "byteOffset": 16800
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2100,
+      "byteOffset": 22400
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 24500,
+      "uri": "wallCorner.bin"
+    }
+  ]
+}

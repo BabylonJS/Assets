@@ -1,0 +1,134 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "extras": {
+        "vertex_color_master_settings": {}
+      },
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "lightPost1"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "lightPost1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "lightPost1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "cottage texture",
+      "uri": "lightPost1_image0.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 714,
+      "max": [
+        0.24042472243309021,
+        3.2007362842559814,
+        1.3234618902206421
+      ],
+      "min": [
+        -0.22405736148357391,
+        -0.014365159906446934,
+        -0.519221842288971
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 714,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 714,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 1176,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 8568,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8568,
+      "byteOffset": 8568
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5712,
+      "byteOffset": 17136
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2352,
+      "byteOffset": 22848
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 25200,
+      "uri": "lightPost1.bin"
+    }
+  ]
+}

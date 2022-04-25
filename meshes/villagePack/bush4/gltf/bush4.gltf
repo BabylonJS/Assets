@@ -1,0 +1,153 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "bush4"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "bush4",
+      "normalTexture": {
+        "index": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        },
+        "roughnessFactor": 0.5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "bush4",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ],
+  "images": [
+    {
+      "name": "normal",
+      "uri": "bush4_image0.png"
+    },
+    {
+      "name": "baseColor",
+      "uri": "bush4_image1.png"
+    },
+    {
+      "name": "orm",
+      "uri": "bush4_image2.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 456,
+      "max": [
+        0.27304607629776,
+        0.67549949884414673,
+        0.41516762971878052
+      ],
+      "min": [
+        -0.32534009218215942,
+        -0.032647084444761276,
+        -0.43020141124725342
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 456,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 456,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 504,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 5472,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5472,
+      "byteOffset": 5472
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3648,
+      "byteOffset": 10944
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1008,
+      "byteOffset": 14592
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 15600,
+      "uri": "bush4.bin"
+    }
+  ]
+}

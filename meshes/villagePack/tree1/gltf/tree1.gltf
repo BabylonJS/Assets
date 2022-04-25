@@ -1,0 +1,132 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "tree1"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "tree1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.63235294818878174
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "tree1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "rocks3",
+      "uri": "tree1_image0.jpg"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2559,
+      "max": [
+        3.07393741607666,
+        9.2568778991699219,
+        2.4254679679870605
+      ],
+      "min": [
+        -3.4214348793029785,
+        -0.049391515552997589,
+        -2.3958988189697266
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2559,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2559,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 3252,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 30708,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 30708,
+      "byteOffset": 30708
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20472,
+      "byteOffset": 61416
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6504,
+      "byteOffset": 81888
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 88392,
+      "uri": "tree1.bin"
+    }
+  ]
+}

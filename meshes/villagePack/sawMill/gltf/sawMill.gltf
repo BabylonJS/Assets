@@ -1,0 +1,132 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "sawMill"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "sawMill",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.63235294818878174
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "sawMill",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "rocks3",
+      "uri": "sawMill_image0.jpg"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 7756,
+      "max": [
+        4.4822301864624023,
+        11.536849021911621,
+        4.2459235191345215
+      ],
+      "min": [
+        -4.696052074432373,
+        -0.001240164041519165,
+        -4.3034496307373047
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7756,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7756,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 14580,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 93072,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 93072,
+      "byteOffset": 93072
+    },
+    {
+      "buffer": 0,
+      "byteLength": 62048,
+      "byteOffset": 186144
+    },
+    {
+      "buffer": 0,
+      "byteLength": 29160,
+      "byteOffset": 248192
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 277352,
+      "uri": "sawMill.bin"
+    }
+  ]
+}
