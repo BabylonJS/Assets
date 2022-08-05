@@ -569,6 +569,7 @@
 | wallCorner_glb<br/>meshes/villagePack/wallCorner/wallCorner.glb | ![wallCorner_glb](https://assets.babylonjs.com/generated/wallCorner.glb.jpeg) |
 | waterwell_gltf<br/>meshes/villagePack/waterwell/gltf/waterwell.gltf | ![waterwell_gltf](https://assets.babylonjs.com/generated/waterwell.gltf.jpeg) |
 | waterwell_glb<br/>meshes/villagePack/waterwell/waterwell.glb | ![waterwell_glb](https://assets.babylonjs.com/generated/waterwell.glb.jpeg) |
+| tree_babylon<br/>meshes/Tree/tree.babylon | tree_babylon (meshes) - preview unavailable |
 
 ## nme
 
@@ -581,6 +582,11 @@
 | tileAndOffset<br/>nme/customFrames/tileAndOffset.json | tileAndOffset (nme) - preview unavailable |
 | uvTwirl<br/>nme/customFrames/uvTwirl.json | uvTwirl (nme) - preview unavailable |
 | zebraStripes<br/>nme/customFrames/zebraStripes.json | zebraStripes (nme) - preview unavailable |
+| Position_json<br/>nme/customFrames/Position.json | Position_json (nme) - preview unavailable |
+| Rotation3d_json<br/>nme/customFrames/Rotation3d.json | Rotation3d_json (nme) - preview unavailable |
+| Transform3d_json<br/>nme/customFrames/Transform3d.json | Transform3d_json (nme) - preview unavailable |
+| VectorScale_json<br/>nme/customFrames/VectorScale.json | VectorScale_json (nme) - preview unavailable |
+| Vertex Output_json<br/>nme/customFrames/Vertex Output.json | Vertex Output_json (nme) - preview unavailable |
 
 ## particles
 
