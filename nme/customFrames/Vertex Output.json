@@ -1,0 +1,132 @@
+{
+  "editorData": {
+    "locations": [
+      {
+        "blockId": 9,
+        "x": 2600,
+        "y": 760
+      },
+      {
+        "blockId": 8,
+        "x": 2360,
+        "y": 780
+      },
+      {
+        "blockId": 10,
+        "x": 2860,
+        "y": 780
+      }
+    ],
+    "frames": [
+      {
+        "x": 2320,
+        "y": 660,
+        "width": 764.97,
+        "height": 248.465,
+        "color": [
+          0.5803921568627451,
+          0.1450980392156863,
+          0.1450980392156863
+        ],
+        "name": "Vertex Output",
+        "isCollapsed": true,
+        "blocks": [
+          9,
+          8,
+          10
+        ]
+      }
+    ]
+  },
+  "blocks": [
+    {
+      "customType": "BABYLON.TransformBlock",
+      "id": 9,
+      "name": "WorldPos * ViewProjectionTransform",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 1,
+      "inputs": [
+        {
+          "name": "vector",
+          "displayName": "Vector",
+          "inputName": "vector",
+          "targetBlockId": 857776,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": 0
+        },
+        {
+          "name": "transform",
+          "displayName": "transform",
+          "inputName": "transform",
+          "targetBlockId": 8,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "displayName": "output"
+        },
+        {
+          "name": "xyz",
+          "displayName": "xyz"
+        }
+      ],
+      "complementZ": 0,
+      "complementW": 1
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 8,
+      "name": "ViewProjection",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 128,
+      "mode": 0,
+      "systemValue": 4,
+      "animationType": 0,
+      "min": 0,
+      "max": 0,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "convertToGammaSpace": false,
+      "convertToLinearSpace": false
+    },
+    {
+      "customType": "BABYLON.VertexOutputBlock",
+      "id": 10,
+      "name": "VertexOutput",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 1,
+      "inputs": [
+        {
+          "name": "vector",
+          "displayName": "vector",
+          "inputName": "vector",
+          "targetBlockId": 9,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": []
+    }
+  ]
+}

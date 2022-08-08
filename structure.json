@@ -3921,6 +3921,12 @@
       "filename": "waterwell.glb",
       "name": "waterwell_glb",
       "thumbnail": "data:image/jpeg;base64,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"
+    },
+    {
+      "path": "meshes/Tree/tree.babylon",
+      "rootUrl": "meshes/Tree",
+      "filename": "tree.babylon",
+      "name": "tree_babylon"
     }
   ],
   "nme": [
@@ -3965,6 +3971,36 @@
       "rootUrl": "nme/customFrames",
       "filename": "zebraStripes.json",
       "name": "zebraStripes"
+    },
+    {
+      "path": "nme/customFrames/Position.json",
+      "rootUrl": "nme/customFrames",
+      "filename": "Position.json",
+      "name": "Position_json"
+    },
+    {
+      "path": "nme/customFrames/Rotation3d.json",
+      "rootUrl": "nme/customFrames",
+      "filename": "Rotation3d.json",
+      "name": "Rotation3d_json"
+    },
+    {
+      "path": "nme/customFrames/Transform3d.json",
+      "rootUrl": "nme/customFrames",
+      "filename": "Transform3d.json",
+      "name": "Transform3d_json"
+    },
+    {
+      "path": "nme/customFrames/VectorScale.json",
+      "rootUrl": "nme/customFrames",
+      "filename": "VectorScale.json",
+      "name": "VectorScale_json"
+    },
+    {
+      "path": "nme/customFrames/Vertex Output.json",
+      "rootUrl": "nme/customFrames",
+      "filename": "Vertex Output.json",
+      "name": "Vertex Output_json"
     }
   ],
   "particles": [
