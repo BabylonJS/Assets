@@ -1,0 +1,131 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "stump1"
+    }
+  ],
+  "materials": [
+    {
+      "name": "stump1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.800000011920929
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "stump1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "Graveyard_texture",
+      "uri": "stump1_image0.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1102,
+      "max": [
+        0.80766314268112183,
+        0.71121704578399658,
+        0.71377921104431152
+      ],
+      "min": [
+        -1.1662297248840332,
+        -0.16705599427223206,
+        -1.2789280414581299
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1102,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1102,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 1218,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 13224,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13224,
+      "byteOffset": 13224
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8816,
+      "byteOffset": 26448
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2436,
+      "byteOffset": 35264
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 37700,
+      "uri": "stump1.bin"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "tombstone11"
+    }
+  ],
+  "materials": [
+    {
+      "name": "tombstone11",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.800000011920929
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "tombstone11",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "Graveyard_texture",
+      "uri": "tombstone11_image0.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 136,
+      "max": [
+        0.32622805237770081,
+        0.32882466912269592,
+        0.20812088251113892
+      ],
+      "min": [
+        -0.31328290700912476,
+        -0.077337756752967834,
+        -0.8080328106880188
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 136,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 136,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 264,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1632,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1632,
+      "byteOffset": 1632
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1088,
+      "byteOffset": 3264
+    },
+    {
+      "buffer": 0,
+      "byteLength": 528,
+      "byteOffset": 4352
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 4880,
+      "uri": "tombstone11.bin"
+    }
+  ]
+}

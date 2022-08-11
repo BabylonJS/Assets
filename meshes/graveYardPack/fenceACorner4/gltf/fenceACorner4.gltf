@@ -1,0 +1,131 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "fenceACorner4"
+    }
+  ],
+  "materials": [
+    {
+      "name": "fenceACorner4",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.800000011920929
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "fenceACorner4",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "Graveyard_texture",
+      "uri": "fenceACorner4_image0.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 388,
+      "max": [
+        0.44167327880859375,
+        2.4796955585479736,
+        0.41683217883110046
+      ],
+      "min": [
+        -0.3583965003490448,
+        -0.067974120378494263,
+        -0.35839620232582092
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 388,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 388,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 531,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 4656,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4656,
+      "byteOffset": 4656
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3104,
+      "byteOffset": 9312
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1062,
+      "byteOffset": 12416
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 13478,
+      "uri": "fenceACorner4.bin"
+    }
+  ]
+}

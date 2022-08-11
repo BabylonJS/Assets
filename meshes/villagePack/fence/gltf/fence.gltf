@@ -1,0 +1,132 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "fence"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "fence",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.63235294818878174
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "fence",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "rocks3",
+      "uri": "fence_image0.jpg"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 666,
+      "max": [
+        0.11316267400979996,
+        2.0480818748474121,
+        1.7100441455841065
+      ],
+      "min": [
+        -0.13640062510967255,
+        -0.00073850154876708984,
+        -1.739302396774292
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 666,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 666,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 1650,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 7992,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7992,
+      "byteOffset": 7992
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5328,
+      "byteOffset": 15984
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3300,
+      "byteOffset": 21312
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 24612,
+      "uri": "fence.bin"
+    }
+  ]
+}

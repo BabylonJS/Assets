@@ -1,0 +1,131 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "mausoleumLargeSkewed"
+    }
+  ],
+  "materials": [
+    {
+      "name": "mausoleumLargeSkewed",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.800000011920929
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "mausoleumLargeSkewed",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "Graveyard_texture",
+      "uri": "mausoleumLargeSkewed_image0.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 6476,
+      "max": [
+        3.5653717517852783,
+        6.5724706649780273,
+        4.8240933418273926
+      ],
+      "min": [
+        -3.546607494354248,
+        -0.46797490119934082,
+        -4.0696349143981934
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 6476,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 6476,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 12306,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 77712,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 77712,
+      "byteOffset": 77712
+    },
+    {
+      "buffer": 0,
+      "byteLength": 51808,
+      "byteOffset": 155424
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24612,
+      "byteOffset": 207232
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 231844,
+      "uri": "mausoleumLargeSkewed.bin"
+    }
+  ]
+}

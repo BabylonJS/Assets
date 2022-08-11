@@ -1,0 +1,164 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "bush5",
+      "rotation": [
+        -0.085160866379737854,
+        -0.91387438774108887,
+        0.28072607517242432,
+        -0.28066733479499817
+      ],
+      "scale": [
+        0.023046495392918587,
+        0.10671813786029816,
+        0.023046491667628288
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "bush5",
+      "normalTexture": {
+        "index": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        },
+        "roughnessFactor": 0.5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "bush5",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ],
+  "images": [
+    {
+      "name": "normal",
+      "uri": "bush5_image0.png"
+    },
+    {
+      "name": "baseColor",
+      "uri": "bush5_image1.png"
+    },
+    {
+      "name": "orm",
+      "uri": "bush5_image2.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2276,
+      "max": [
+        30.419155120849609,
+        6.2613186836242676,
+        13.871792793273926
+      ],
+      "min": [
+        -44.1846923828125,
+        -6.1960630416870117,
+        -53.886623382568359
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2276,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2276,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 2520,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 27312,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 27312,
+      "byteOffset": 27312
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18208,
+      "byteOffset": 54624
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5040,
+      "byteOffset": 72832
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 77872,
+      "uri": "bush5.bin"
+    }
+  ]
+}

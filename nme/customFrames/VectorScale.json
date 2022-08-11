@@ -1,0 +1,358 @@
+{
+  "editorData": {
+    "locations": [
+      {
+        "blockId": 857873,
+        "x": 1700,
+        "y": 380
+      },
+      {
+        "blockId": 857874,
+        "x": 1700,
+        "y": 620
+      },
+      {
+        "blockId": 857875,
+        "x": 2080,
+        "y": 440
+      },
+      {
+        "blockId": 857876,
+        "x": 2080,
+        "y": 580
+      },
+      {
+        "blockId": 857877,
+        "x": 2080,
+        "y": 700
+      },
+      {
+        "blockId": 857878,
+        "x": 2380,
+        "y": 500
+      }
+    ],
+    "frames": [
+      {
+        "x": 1640,
+        "y": 360,
+        "width": 962.641,
+        "height": 575.616,
+        "color": [
+          0.7450980392156863,
+          0.611764705882353,
+          0.3058823529411765
+        ],
+        "name": "VectorScale",
+        "isCollapsed": true,
+        "blocks": [
+          857873,
+          857874,
+          857875,
+          857876,
+          857877,
+          857878
+        ]
+      }
+    ]
+  },
+  "blocks": [
+    {
+      "customType": "BABYLON.VectorSplitterBlock",
+      "id": 857873,
+      "name": "VectorSplitter",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "xyzw",
+          "displayName": "xyzw"
+        },
+        {
+          "name": "xyz ",
+          "displayName": "Vector1",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": 0
+        },
+        {
+          "name": "xy ",
+          "displayName": "xy "
+        }
+      ],
+      "outputs": [
+        {
+          "name": "xyz",
+          "displayName": "xyz"
+        },
+        {
+          "name": "xy",
+          "displayName": "xy"
+        },
+        {
+          "name": "zw",
+          "displayName": "zw"
+        },
+        {
+          "name": "x",
+          "displayName": "x"
+        },
+        {
+          "name": "y",
+          "displayName": "y"
+        },
+        {
+          "name": "z",
+          "displayName": "z"
+        },
+        {
+          "name": "w",
+          "displayName": "w"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.VectorSplitterBlock",
+      "id": 857874,
+      "name": "VectorSplitter",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "xyzw",
+          "displayName": "xyzw"
+        },
+        {
+          "name": "xyz ",
+          "displayName": "Vector2",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": 1
+        },
+        {
+          "name": "xy ",
+          "displayName": "xy "
+        }
+      ],
+      "outputs": [
+        {
+          "name": "xyz",
+          "displayName": "xyz"
+        },
+        {
+          "name": "xy",
+          "displayName": "xy"
+        },
+        {
+          "name": "zw",
+          "displayName": "zw"
+        },
+        {
+          "name": "x",
+          "displayName": "x"
+        },
+        {
+          "name": "y",
+          "displayName": "y"
+        },
+        {
+          "name": "z",
+          "displayName": "z"
+        },
+        {
+          "name": "w",
+          "displayName": "w"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.ScaleBlock",
+      "id": 857875,
+      "name": "Scale",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "input",
+          "displayName": "input",
+          "inputName": "input",
+          "targetBlockId": 857873,
+          "targetConnectionName": "x",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "factor",
+          "displayName": "factor",
+          "inputName": "factor",
+          "targetBlockId": 857874,
+          "targetConnectionName": "x",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "displayName": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.ScaleBlock",
+      "id": 857876,
+      "name": "Scale",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "input",
+          "displayName": "input",
+          "inputName": "input",
+          "targetBlockId": 857873,
+          "targetConnectionName": "y",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "factor",
+          "displayName": "factor",
+          "inputName": "factor",
+          "targetBlockId": 857874,
+          "targetConnectionName": "y",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "displayName": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.ScaleBlock",
+      "id": 857877,
+      "name": "Scale",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "input",
+          "displayName": "input",
+          "inputName": "input",
+          "targetBlockId": 857873,
+          "targetConnectionName": "z",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "factor",
+          "displayName": "factor",
+          "inputName": "factor",
+          "targetBlockId": 857874,
+          "targetConnectionName": "z",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "displayName": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.VectorMergerBlock",
+      "id": 857878,
+      "name": "VectorMerger",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "xyzw ",
+          "displayName": "xyzw "
+        },
+        {
+          "name": "xyz ",
+          "displayName": "xyz "
+        },
+        {
+          "name": "xy ",
+          "displayName": "xy "
+        },
+        {
+          "name": "zw ",
+          "displayName": "zw "
+        },
+        {
+          "name": "x",
+          "displayName": "x",
+          "inputName": "x",
+          "targetBlockId": 857875,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "y",
+          "displayName": "y",
+          "inputName": "y",
+          "targetBlockId": 857876,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "z",
+          "displayName": "z",
+          "inputName": "z",
+          "targetBlockId": 857877,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "w",
+          "displayName": "w"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "xyzw",
+          "displayName": "xyzw"
+        },
+        {
+          "name": "xyz",
+          "displayName": "Output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": 0
+        },
+        {
+          "name": "xy",
+          "displayName": "xy"
+        },
+        {
+          "name": "zw",
+          "displayName": "zw"
+        }
+      ],
+      "xSwizzle": "x",
+      "ySwizzle": "y",
+      "zSwizzle": "z",
+      "wSwizzle": "w"
+    }
+  ]
+}

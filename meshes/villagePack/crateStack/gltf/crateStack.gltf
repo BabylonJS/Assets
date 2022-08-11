@@ -1,0 +1,165 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "crateStack"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "crateStack",
+      "normalTexture": {
+        "index": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicRoughnessTexture": {
+          "index": 2
+        },
+        "roughnessFactor": 0.5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "crateStack",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ],
+  "images": [
+    {
+      "name": "normal",
+      "uri": "crateStack_image0.png"
+    },
+    {
+      "name": "baseColor",
+      "uri": "crateStack_image1.png"
+    },
+    {
+      "name": "orm",
+      "uri": "crateStack_image2.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1571,
+      "max": [
+        0.89951342344284058,
+        1.7733457088470459,
+        0.89300942420959473
+      ],
+      "min": [
+        -0.867647647857666,
+        0.0061845108866691589,
+        -0.87415158748626709
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1571,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1571,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1571,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 1704,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 18852,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18852,
+      "byteOffset": 18852
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12568,
+      "byteOffset": 37704
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12568,
+      "byteOffset": 50272
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3408,
+      "byteOffset": 62840
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 66248,
+      "uri": "crateStack.bin"
+    }
+  ]
+}

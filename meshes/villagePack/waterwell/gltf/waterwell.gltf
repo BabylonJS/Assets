@@ -1,0 +1,141 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "waterwell"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "waterwell",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "waterwell",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ],
+  "images": [
+    {
+      "name": "waterwellBaseColor",
+      "uri": "waterwell_image0.png"
+    },
+    {
+      "name": "waterwellORM",
+      "uri": "waterwell_image1.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 821,
+      "max": [
+        2.276047945022583,
+        6.3278594017028809,
+        1.6515421867370606
+      ],
+      "min": [
+        -1.8562775850296021,
+        -0.0096109025180339813,
+        -1.6399586200714111
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 821,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 821,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 1170,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 9852,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 9852,
+      "byteOffset": 9852
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6568,
+      "byteOffset": 19704
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2340,
+      "byteOffset": 26272
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 28612,
+      "uri": "waterwell.bin"
+    }
+  ]
+}

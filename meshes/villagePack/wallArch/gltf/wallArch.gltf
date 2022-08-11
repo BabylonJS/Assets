@@ -1,0 +1,134 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "extras": {
+        "vertex_color_master_settings": {}
+      },
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "wallArch"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "wallArch",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "wallArch",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
+  "images": [
+    {
+      "name": "cottage texture",
+      "uri": "wallArch_image0.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 720,
+      "max": [
+        3.3728702068328857,
+        4.2982645034790039,
+        0.45985329151153564
+      ],
+      "min": [
+        -3.7947313785552979,
+        -3.6409467440989829E-08,
+        -0.46185570955276489
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 720,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 720,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 1092,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 8640,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8640,
+      "byteOffset": 8640
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5760,
+      "byteOffset": 17280
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2184,
+      "byteOffset": 23040
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 25224,
+      "uri": "wallArch.bin"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.7.33",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "barrel"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "barrel",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "barrel",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ],
+  "images": [
+    {
+      "name": "barrelBaseColor",
+      "uri": "barrel_image0.png"
+    },
+    {
+      "name": "barrelORM",
+      "uri": "barrel_image1.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 1082,
+      "max": [
+        0.48345947265625,
+        1.0009840726852417,
+        0.49936750531196594
+      ],
+      "min": [
+        -0.4880911111831665,
+        -6.6407210397301242E-08,
+        -0.48551797866821289
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1082,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1082,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 2835,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 12984,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12984,
+      "byteOffset": 12984
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8656,
+      "byteOffset": 25968
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5670,
+      "byteOffset": 34624
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 40294,
+      "uri": "barrel.bin"
+    }
+  ]
+}
