@@ -100,6 +100,7 @@ const process = async () => {
             "_" +
             path.extname(file).substring(1),
         };
+        if (index === -1) console.log(index, newAsset);
 
         if (["png", "jpg"].includes(extension)) {
           try {
@@ -115,7 +116,6 @@ const process = async () => {
         } else if (
           (generateModelThumbnails ||
             (generateMissingThumbnails &&
-              index !== -1 &&
               !structure[dir][index].thumbnail)) &&
           ["babylon", "obj", "stl", "gltf", "glb"].includes(extension)
         ) {

@@ -569,7 +569,9 @@
 | wallCorner_glb<br/>meshes/villagePack/wallCorner/wallCorner.glb | ![wallCorner_glb](https://assets.babylonjs.com/generated/wallCorner.glb.jpeg) |
 | waterwell_gltf<br/>meshes/villagePack/waterwell/gltf/waterwell.gltf | ![waterwell_gltf](https://assets.babylonjs.com/generated/waterwell.gltf.jpeg) |
 | waterwell_glb<br/>meshes/villagePack/waterwell/waterwell.glb | ![waterwell_glb](https://assets.babylonjs.com/generated/waterwell.glb.jpeg) |
-| tree_babylon<br/>meshes/Tree/tree.babylon | tree_babylon (meshes) - preview unavailable |
+| tree_babylon<br/>meshes/Tree/tree.babylon | ![tree_babylon](https://assets.babylonjs.com/generated/tree.babylon.jpeg) |
+| highPolyPlane_glb<br/>meshes/highPolyPlane.glb | ![highPolyPlane_glb](https://assets.babylonjs.com/generated/highPolyPlane.glb.jpeg) |
+| previewSphere_glb<br/>meshes/previewSphere.glb | ![previewSphere_glb](https://assets.babylonjs.com/generated/previewSphere.glb.jpeg) |
 
 ## nme
 
