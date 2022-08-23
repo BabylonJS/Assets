@@ -11,6 +11,24 @@ if (!fs.existsSync(`${baseDirectory}/generated`)) {
 
 let markdown = `
 # Assets
+`;
+
+let esmDeclaration = `
+declare module "@babylonjs/assets" {
+  export interface Asset {
+    /**
+     * The full path of the asset
+     */
+    path: string;
+    /**
+     * The filename of the assets
+     */
+    filename: string;
+    /**
+     * The base URL of the asset
+     */
+    rootUrl: string;
+  }
 `
 
 let declaration = `
@@ -31,12 +49,15 @@ declare namespace Assets {
     }
 `;
 let source = `
-window.Assets = {`;
+const Assets = {`;
 Object.keys(structure).forEach((dir) => {
   // generate source
   source += `${dir}: {`;
   declaration += `
     const ${dir}: {
+`;
+esmDeclaration += `
+    export const ${dir}: {
 `;
   markdown += `
 ## ${dir}
@@ -88,16 +109,47 @@ Object.keys(structure).forEach((dir) => {
      * ${description}
      */
     "${file.name}": Asset,`;
+    esmDeclaration += `
+    /**
+     * ${description}
+     */
+    "${file.name}": Asset,`;
     markdown += `| ${file.name}<br/>${file.path} | ${description} |
 `;
   });
   source += `},`;
-  declaration += `},`;
+  declaration += `};`;
+  esmDeclaration += `};`;
 });
 
 source += "};";
 declaration += "}";
+esmDeclaration += "}";
 
-fs.writeFileSync(`${baseDirectory}/generated/Assets.js`, source);
-fs.writeFileSync(`${baseDirectory}/generated/Assets.d.ts`, declaration);
+fs.writeFileSync(
+  `${baseDirectory}/generated/Assets.js`,
+  source +
+    `
+(function (root, factory) {
+	if ( typeof define === 'function' && define.amd ) {
+		define(["babylonjs-assets"], factory(root));
+	} else if ( typeof exports === 'object' ) {
+		module.exports = factory(root);
+	} else if (root !== undefined) {
+		root.Assets = factory(root);
+	}
+})(typeof global !== "undefined" ? global : window, function (root) {
+  return Assets;
+});
+`
+);
+fs.writeFileSync(
+  `${baseDirectory}/generated/Assets-esm.js`,
+  source +
+    `
+export default Assets;
+export { Assets };
+`
+);
+fs.writeFileSync(`${baseDirectory}/generated/Assets.d.ts`, declaration + "\n" + esmDeclaration);
 fs.writeFileSync(`${baseDirectory}/Assets.md`, markdown);

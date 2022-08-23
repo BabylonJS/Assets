@@ -1,0 +1,33 @@
+{
+    "name": "@babylonjs/assets",
+    "version": "5.20.0",
+    "private":true,
+    "main": "generated/Assets.js",
+    "module": "generated/Assets-esm.js",
+    "types": "generated/Assets.d.ts",
+    "files": [
+        "generated/**/*.js",
+        "generated/**/*.ts",
+        "LICENSE",
+        "README.md"
+    ],
+    "keywords": [
+        "3D",
+        "javascript",
+        "html5",
+        "webgl",
+        "babylon.js"
+    ],
+    "license": "Apache-2.0",
+    "esnext": "generated/Assets-esm.js",
+    "type": "module",
+    "sideEffects": false,
+    "homepage": "https://www.babylonjs.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BabylonJS/Assets.js.git"
+    },
+    "bugs": {
+        "url": "https://github.com/BabylonJS/Assets/issues"
+    }
+}
