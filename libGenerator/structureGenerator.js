@@ -8,7 +8,7 @@ const glob = require("glob");
 const imageGenerator = require("image-thumbnail");
 const puppeteer = require("puppeteer");
 
-const generateMissingThumbnails = true;
+const generateMissingThumbnails = false;
 
 const getDirectories = (source) =>
   fs
@@ -116,7 +116,9 @@ const process = async () => {
         } else if (
           (generateModelThumbnails ||
             (generateMissingThumbnails &&
-              !structure[dir][index].thumbnail)) &&
+              (!structure[dir] ||
+                !structure[dir][index] ||
+                !structure[dir][index].thumbnail))) &&
           ["babylon", "obj", "stl", "gltf", "glb"].includes(extension)
         ) {
           console.log("generating", relativePath);
