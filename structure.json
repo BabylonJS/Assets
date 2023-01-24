@@ -4130,6 +4130,36 @@
       "rootUrl": "sound/Snow_Man_Scene",
       "filename": "winterWoods.mp3",
       "name": "winterWoods"
+    },
+    {
+      "path": "sound/testing/3-count.mp3",
+      "rootUrl": "sound/testing",
+      "filename": "3-count.mp3",
+      "name": "3-count_mp3"
+    },
+    {
+      "path": "sound/testing/60-count.mp3",
+      "rootUrl": "sound/testing",
+      "filename": "60-count.mp3",
+      "name": "60-count_mp3"
+    },
+    {
+      "path": "sound/testing/mp3.mp3",
+      "rootUrl": "sound/testing",
+      "filename": "mp3.mp3",
+      "name": "mp3_mp3"
+    },
+    {
+      "path": "sound/testing/ogg.ogg",
+      "rootUrl": "sound/testing",
+      "filename": "ogg.ogg",
+      "name": "ogg_ogg"
+    },
+    {
+      "path": "sound/testing/ac3.ac3",
+      "rootUrl": "sound/testing",
+      "filename": "ac3.ac3",
+      "name": "ac3_ac3"
     }
   ],
   "luts": [

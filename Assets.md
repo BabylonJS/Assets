@@ -572,6 +572,8 @@
 | tree_babylon<br/>meshes/Tree/tree.babylon | ![tree_babylon](https://assets.babylonjs.com/generated/tree.babylon.jpeg) |
 | highPolyPlane_glb<br/>meshes/highPolyPlane.glb | ![highPolyPlane_glb](https://assets.babylonjs.com/generated/highPolyPlane.glb.jpeg) |
 | previewSphere_glb<br/>meshes/previewSphere.glb | ![previewSphere_glb](https://assets.babylonjs.com/generated/previewSphere.glb.jpeg) |
+| mrtk-fluent-frontplate_glb<br/>meshes/MRTK/mrtk-fluent-frontplate.glb | ![mrtk-fluent-frontplate_glb](https://assets.babylonjs.com/generated/mrtk-fluent-frontplate.glb.jpeg) |
+| SlateProximity_glb<br/>meshes/MRTK/SlateProximity.glb | ![SlateProximity_glb](https://assets.babylonjs.com/generated/SlateProximity.glb.jpeg) |
 
 ## nme
 
@@ -615,6 +617,9 @@
 | pirateFun<br/>sound/pirateFun.mp3 | pirateFun (sound) - preview unavailable |
 | This Is Christmas<br/>sound/Snow_Man_Scene/This Is Christmas.mp3 | This Is Christmas (sound) - preview unavailable |
 | winterWoods<br/>sound/Snow_Man_Scene/winterWoods.mp3 | winterWoods (sound) - preview unavailable |
+| mp3_mp3<br/>sound/testing/mp3.mp3 | mp3_mp3 (sound) - preview unavailable |
+| ogg_ogg<br/>sound/testing/ogg.ogg | ogg_ogg (sound) - preview unavailable |
+| ac3_ac3<br/>sound/testing/ac3.ac3 | ac3_ac3 (sound) - preview unavailable |
 
 ## luts
 
@@ -800,3 +805,7 @@
 | wood_jpg<br/>textures/wood.jpg | ![wood_jpg](https://assets.babylonjs.com/generated/wood.jpg.jpeg) |
 | woodAlbedo_png<br/>textures/woodAlbedo.png | ![woodAlbedo_png](https://assets.babylonjs.com/generated/woodAlbedo.png.jpeg) |
 | worldHeightMap_jpg<br/>textures/worldHeightMap.jpg | ![worldHeightMap_jpg](https://assets.babylonjs.com/generated/worldHeightMap.jpg.jpeg) |
+| floorn_png<br/>textures/floorn.png | ![floorn_png](https://assets.babylonjs.com/generated/floorn.png.jpeg) |
+| stoneso_png<br/>textures/stoneso.png | ![stoneso_png](https://assets.babylonjs.com/generated/stoneso.png.jpeg) |
+| leafPositionTexture_png<br/>textures/leafPositionTexture.png | ![leafPositionTexture_png](https://assets.babylonjs.com/generated/leafPositionTexture.png.jpeg) |
+| leafRotationTexture_png<br/>textures/leafRotationTexture.png | ![leafRotationTexture_png](https://assets.babylonjs.com/generated/leafRotationTexture.png.jpeg) |

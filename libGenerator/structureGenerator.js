@@ -60,7 +60,7 @@ const fileTypes = {
   meshes: ["babylon", "obj", "stl", "gltf", "glb"],
   nme: ["json"],
   particles: ["json"],
-  sound: ["mp3", "ogg", "wav"],
+  sound: ["ac3", "mp3", "ogg", "wav"],
 };
 const process = async () => {
   const generateModelThumbnails =
