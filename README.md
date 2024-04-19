@@ -5,7 +5,7 @@ A place for storing all the assets that are used by Babylon.js website, core eng
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+[Creative Commons Attribution 4.0 International License][cc-by] (Specific licensing can still be applied per file if a license file is present side by side with an asset)
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
