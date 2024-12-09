@@ -2,6 +2,7 @@
     "asset": {
         "version": "2.0"
     },
+    "extensionsUsed": ["EXT_lights_ies"],
     "scene": 0,
     "scenes": [
         {
