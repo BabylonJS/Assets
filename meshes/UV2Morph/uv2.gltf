@@ -1,0 +1,173 @@
+{
+  "asset": {
+    "version": "2.0"
+  },
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "extensionsRequired": [
+    "KHR_materials_unlit"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Camera",
+      "camera": 0
+    },
+    {
+      "name": "Triangle",
+      "mesh": 0
+    }
+  ],
+  "cameras": [
+    {
+      "name": "Camera",
+      "type": "perspective",
+      "perspective": {
+        "aspectRatio": 1,
+        "yfov": 1,
+        "zfar": 10,
+        "znear": 0.1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Triangle",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "TEXCOORD_0": 1,
+            "TEXCOORD_1": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "targets": [
+            {
+              "TEXCOORD_1": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "name": "Unlit",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 1
+        }
+      },
+      "extensions": {
+        "KHR_materials_unlit": {}
+      }
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
+  "samplers": [
+    {
+      "wrapS": 33071
+    }
+  ],
+  "images": [
+    {
+      "uri": "gradient.png"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 3,
+      "type": "VEC3",
+      "min": [
+        -0.5,
+        -0.5,
+        -1
+      ],
+      "max": [
+        0.5,
+        0.5,
+        -1
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 3,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 3,
+      "type": "VEC2"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 36,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 36,
+      "byteLength": 24,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 60,
+      "byteLength": 24,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 84,
+      "byteLength": 12,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 96,
+      "byteLength": 24,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "uv2.bin",
+      "byteLength": 120
+    }
+  ]
+}
