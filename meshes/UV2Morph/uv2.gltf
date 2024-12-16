@@ -53,7 +53,8 @@
           "material": 0,
           "targets": [
             {
-              "TEXCOORD_1": 4
+              "POSITION": 4,
+              "TEXCOORD_1": 5
             }
           ]
         }
@@ -129,6 +130,22 @@
       "bufferView": 4,
       "componentType": 5126,
       "count": 3,
+      "type": "VEC3",
+      "min": [
+        0,
+        0,
+        0
+      ],
+      "max": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 3,
       "type": "VEC2"
     }
   ],
@@ -160,6 +177,12 @@
     {
       "buffer": 0,
       "byteOffset": 96,
+      "byteLength": 36,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 132,
       "byteLength": 24,
       "target": 34962
     }
@@ -167,7 +190,7 @@
   "buffers": [
     {
       "uri": "uv2.bin",
-      "byteLength": 120
+      "byteLength": 156
     }
   ]
 }
