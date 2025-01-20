@@ -1,0 +1,1 @@
+This directory holds all assets required in the core package(s) of the framework
