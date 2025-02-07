@@ -574,6 +574,29 @@
 | previewSphere_glb<br/>meshes/previewSphere.glb | ![previewSphere_glb](https://assets.babylonjs.com/generated/previewSphere.glb.jpeg) |
 | mrtk-fluent-frontplate_glb<br/>meshes/MRTK/mrtk-fluent-frontplate.glb | ![mrtk-fluent-frontplate_glb](https://assets.babylonjs.com/generated/mrtk-fluent-frontplate.glb.jpeg) |
 | SlateProximity_glb<br/>meshes/MRTK/SlateProximity.glb | ![SlateProximity_glb](https://assets.babylonjs.com/generated/SlateProximity.glb.jpeg) |
+| bowlingBall_glb<br/>meshes/bowlingBall.glb | bowlingBall_glb (meshes) - preview unavailable |
+| bowlingPinpin_glb<br/>meshes/bowlingPinpin.glb | bowlingPinpin_glb (meshes) - preview unavailable |
+| ceiling corner_glb<br/>meshes/Buildings/ceiling corner.glb | ceiling corner_glb (meshes) - preview unavailable |
+| ceiling straight_glb<br/>meshes/Buildings/ceiling straight.glb | ceiling straight_glb (meshes) - preview unavailable |
+| ceiling_glb<br/>meshes/Buildings/ceiling.glb | ceiling_glb (meshes) - preview unavailable |
+| corner_glb<br/>meshes/Buildings/corner.glb | corner_glb (meshes) - preview unavailable |
+| corner2_glb<br/>meshes/Buildings/corner2.glb | corner2_glb (meshes) - preview unavailable |
+| Gap_glb<br/>meshes/Buildings/Gap.glb | Gap_glb (meshes) - preview unavailable |
+| Road corner_glb<br/>meshes/Buildings/Road corner.glb | Road corner_glb (meshes) - preview unavailable |
+| road gap_glb<br/>meshes/Buildings/road gap.glb | road gap_glb (meshes) - preview unavailable |
+| straight_glb<br/>meshes/Buildings/straight.glb | straight_glb (meshes) - preview unavailable |
+| window_glb<br/>meshes/Buildings/window.glb | window_glb (meshes) - preview unavailable |
+| window2_glb<br/>meshes/Buildings/window2.glb | window2_glb (meshes) - preview unavailable |
+| shaderBall_rotation_glb<br/>meshes/Demos/pbr_mr_specular/shaderBall_rotation.glb | shaderBall_rotation_glb (meshes) - preview unavailable |
+| Example_bufferView_gltf<br/>meshes/EXT_lights_ies/Example_bufferView.gltf | Example_bufferView_gltf (meshes) - preview unavailable |
+| Example-wo_gltf<br/>meshes/EXT_lights_ies/Example-wo.gltf | Example-wo_gltf (meshes) - preview unavailable |
+| Example_gltf<br/>meshes/EXT_lights_ies/Example.gltf | Example_gltf (meshes) - preview unavailable |
+| fast_babylon<br/>meshes/fast.babylon | fast_babylon (meshes) - preview unavailable |
+| slow_babylon<br/>meshes/slow.babylon | slow_babylon (meshes) - preview unavailable |
+| tarisland_dragon_high_poly_glb<br/>meshes/tarisland_dragon/tarisland_dragon_high_poly.glb | tarisland_dragon_high_poly_glb (meshes) - preview unavailable |
+| Box-draco_glb<br/>meshes/Tests/BadDraco/Box-draco.glb | Box-draco_glb (meshes) - preview unavailable |
+| uv2_gltf<br/>meshes/UV2Morph/uv2.gltf | uv2_gltf (meshes) - preview unavailable |
+| khrNodeVisibility001_gltf<br/>meshes/VisibilityTest/khrNodeVisibility001.gltf | khrNodeVisibility001_gltf (meshes) - preview unavailable |
 
 ## nme
 
@@ -693,6 +716,7 @@
 | TropicalSunnyDay_px_jpg<br/>skyboxes/TropicalSunnyDay/TropicalSunnyDay_px.jpg | ![TropicalSunnyDay_px_jpg](https://assets.babylonjs.com/generated/TropicalSunnyDay_px.jpg.jpeg) |
 | TropicalSunnyDay_py_jpg<br/>skyboxes/TropicalSunnyDay/TropicalSunnyDay_py.jpg | ![TropicalSunnyDay_py_jpg](https://assets.babylonjs.com/generated/TropicalSunnyDay_py.jpg.jpeg) |
 | TropicalSunnyDay_pz_jpg<br/>skyboxes/TropicalSunnyDay/TropicalSunnyDay_pz.jpg | ![TropicalSunnyDay_pz_jpg](https://assets.babylonjs.com/generated/TropicalSunnyDay_pz.jpg.jpeg) |
+| matcap_jpg<br/>skyboxes/matcap.jpg | ![matcap_jpg](https://assets.babylonjs.com/generated/matcap.jpg.jpeg) |
 
 ## sprites
 
@@ -809,3 +833,25 @@
 | stoneso_png<br/>textures/stoneso.png | ![stoneso_png](https://assets.babylonjs.com/generated/stoneso.png.jpeg) |
 | leafPositionTexture_png<br/>textures/leafPositionTexture.png | ![leafPositionTexture_png](https://assets.babylonjs.com/generated/leafPositionTexture.png.jpeg) |
 | leafRotationTexture_png<br/>textures/leafRotationTexture.png | ![leafRotationTexture_png](https://assets.babylonjs.com/generated/leafRotationTexture.png.jpeg) |
+| trail_png<br/>textures/trail.png | ![trail_png](https://assets.babylonjs.com/generated/trail.png.jpeg) |
+| wheelcar_png<br/>textures/wheelcar.png | ![wheelcar_png](https://assets.babylonjs.com/generated/wheelcar.png.jpeg) |
+
+## core
+
+| Asset | Preview |
+| ------------- | -----:|
+
+## fonts
+
+| Asset | Preview |
+| ------------- | -----:|
+
+## IES
+
+| Asset | Preview |
+| ------------- | -----:|
+
+## splats
+
+| Asset | Preview |
+| ------------- | -----:|
