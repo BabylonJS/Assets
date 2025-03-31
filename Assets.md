@@ -574,29 +574,31 @@
 | previewSphere_glb<br/>meshes/previewSphere.glb | ![previewSphere_glb](https://assets.babylonjs.com/generated/previewSphere.glb.jpeg) |
 | mrtk-fluent-frontplate_glb<br/>meshes/MRTK/mrtk-fluent-frontplate.glb | ![mrtk-fluent-frontplate_glb](https://assets.babylonjs.com/generated/mrtk-fluent-frontplate.glb.jpeg) |
 | SlateProximity_glb<br/>meshes/MRTK/SlateProximity.glb | ![SlateProximity_glb](https://assets.babylonjs.com/generated/SlateProximity.glb.jpeg) |
-| bowlingBall_glb<br/>meshes/bowlingBall.glb | bowlingBall_glb (meshes) - preview unavailable |
-| bowlingPinpin_glb<br/>meshes/bowlingPinpin.glb | bowlingPinpin_glb (meshes) - preview unavailable |
-| ceiling corner_glb<br/>meshes/Buildings/ceiling corner.glb | ceiling corner_glb (meshes) - preview unavailable |
-| ceiling straight_glb<br/>meshes/Buildings/ceiling straight.glb | ceiling straight_glb (meshes) - preview unavailable |
-| ceiling_glb<br/>meshes/Buildings/ceiling.glb | ceiling_glb (meshes) - preview unavailable |
-| corner_glb<br/>meshes/Buildings/corner.glb | corner_glb (meshes) - preview unavailable |
-| corner2_glb<br/>meshes/Buildings/corner2.glb | corner2_glb (meshes) - preview unavailable |
-| Gap_glb<br/>meshes/Buildings/Gap.glb | Gap_glb (meshes) - preview unavailable |
-| Road corner_glb<br/>meshes/Buildings/Road corner.glb | Road corner_glb (meshes) - preview unavailable |
-| road gap_glb<br/>meshes/Buildings/road gap.glb | road gap_glb (meshes) - preview unavailable |
-| straight_glb<br/>meshes/Buildings/straight.glb | straight_glb (meshes) - preview unavailable |
-| window_glb<br/>meshes/Buildings/window.glb | window_glb (meshes) - preview unavailable |
-| window2_glb<br/>meshes/Buildings/window2.glb | window2_glb (meshes) - preview unavailable |
-| shaderBall_rotation_glb<br/>meshes/Demos/pbr_mr_specular/shaderBall_rotation.glb | shaderBall_rotation_glb (meshes) - preview unavailable |
-| Example_bufferView_gltf<br/>meshes/EXT_lights_ies/Example_bufferView.gltf | Example_bufferView_gltf (meshes) - preview unavailable |
-| Example-wo_gltf<br/>meshes/EXT_lights_ies/Example-wo.gltf | Example-wo_gltf (meshes) - preview unavailable |
-| Example_gltf<br/>meshes/EXT_lights_ies/Example.gltf | Example_gltf (meshes) - preview unavailable |
-| fast_babylon<br/>meshes/fast.babylon | fast_babylon (meshes) - preview unavailable |
-| slow_babylon<br/>meshes/slow.babylon | slow_babylon (meshes) - preview unavailable |
+| bowlingBall_glb<br/>meshes/bowlingBall.glb | ![bowlingBall_glb](https://assets.babylonjs.com/generated/bowlingBall.glb.jpeg) |
+| bowlingPinpin_glb<br/>meshes/bowlingPinpin.glb | ![bowlingPinpin_glb](https://assets.babylonjs.com/generated/bowlingPinpin.glb.jpeg) |
+| ceiling corner_glb<br/>meshes/Buildings/ceiling corner.glb | ![ceiling corner_glb](https://assets.babylonjs.com/generated/ceiling corner.glb.jpeg) |
+| ceiling straight_glb<br/>meshes/Buildings/ceiling straight.glb | ![ceiling straight_glb](https://assets.babylonjs.com/generated/ceiling straight.glb.jpeg) |
+| ceiling_glb<br/>meshes/Buildings/ceiling.glb | ![ceiling_glb](https://assets.babylonjs.com/generated/ceiling.glb.jpeg) |
+| corner_glb<br/>meshes/Buildings/corner.glb | ![corner_glb](https://assets.babylonjs.com/generated/corner.glb.jpeg) |
+| corner2_glb<br/>meshes/Buildings/corner2.glb | ![corner2_glb](https://assets.babylonjs.com/generated/corner2.glb.jpeg) |
+| Gap_glb<br/>meshes/Buildings/Gap.glb | ![Gap_glb](https://assets.babylonjs.com/generated/Gap.glb.jpeg) |
+| Road corner_glb<br/>meshes/Buildings/Road corner.glb | ![Road corner_glb](https://assets.babylonjs.com/generated/Road corner.glb.jpeg) |
+| road gap_glb<br/>meshes/Buildings/road gap.glb | ![road gap_glb](https://assets.babylonjs.com/generated/road gap.glb.jpeg) |
+| straight_glb<br/>meshes/Buildings/straight.glb | ![straight_glb](https://assets.babylonjs.com/generated/straight.glb.jpeg) |
+| window_glb<br/>meshes/Buildings/window.glb | ![window_glb](https://assets.babylonjs.com/generated/window.glb.jpeg) |
+| window2_glb<br/>meshes/Buildings/window2.glb | ![window2_glb](https://assets.babylonjs.com/generated/window2.glb.jpeg) |
+| shaderBall_rotation_glb<br/>meshes/Demos/pbr_mr_specular/shaderBall_rotation.glb | ![shaderBall_rotation_glb](https://assets.babylonjs.com/generated/shaderBall_rotation.glb.jpeg) |
+| Example_bufferView_gltf<br/>meshes/EXT_lights_ies/Example_bufferView.gltf | ![Example_bufferView_gltf](https://assets.babylonjs.com/generated/Example_bufferView.gltf.jpeg) |
+| Example-wo_gltf<br/>meshes/EXT_lights_ies/Example-wo.gltf | ![Example-wo_gltf](https://assets.babylonjs.com/generated/Example-wo.gltf.jpeg) |
+| Example_gltf<br/>meshes/EXT_lights_ies/Example.gltf | ![Example_gltf](https://assets.babylonjs.com/generated/Example.gltf.jpeg) |
+| fast_babylon<br/>meshes/fast.babylon | ![fast_babylon](https://assets.babylonjs.com/generated/fast.babylon.jpeg) |
+| slow_babylon<br/>meshes/slow.babylon | ![slow_babylon](https://assets.babylonjs.com/generated/slow.babylon.jpeg) |
 | tarisland_dragon_high_poly_glb<br/>meshes/tarisland_dragon/tarisland_dragon_high_poly.glb | tarisland_dragon_high_poly_glb (meshes) - preview unavailable |
-| Box-draco_glb<br/>meshes/Tests/BadDraco/Box-draco.glb | Box-draco_glb (meshes) - preview unavailable |
-| uv2_gltf<br/>meshes/UV2Morph/uv2.gltf | uv2_gltf (meshes) - preview unavailable |
-| khrNodeVisibility001_gltf<br/>meshes/VisibilityTest/khrNodeVisibility001.gltf | khrNodeVisibility001_gltf (meshes) - preview unavailable |
+| Box-draco_glb<br/>meshes/Tests/BadDraco/Box-draco.glb | ![Box-draco_glb](https://assets.babylonjs.com/generated/Box-draco.glb.jpeg) |
+| uv2_gltf<br/>meshes/UV2Morph/uv2.gltf | ![uv2_gltf](https://assets.babylonjs.com/generated/uv2.gltf.jpeg) |
+| khrNodeVisibility001_gltf<br/>meshes/VisibilityTest/khrNodeVisibility001.gltf | ![khrNodeVisibility001_gltf](https://assets.babylonjs.com/generated/khrNodeVisibility001.gltf.jpeg) |
+| shoe_variants_glb<br/>meshes/Demos/optimized/shoe_variants.glb | ![shoe_variants_glb](https://assets.babylonjs.com/generated/shoe_variants.glb.jpeg) |
+| acrobaticPlane_variants_glb<br/>meshes/Demos/optimized/acrobaticPlane_variants.glb | ![acrobaticPlane_variants_glb](https://assets.babylonjs.com/generated/acrobaticPlane_variants.glb.jpeg) |
 
 ## nme
 
@@ -643,6 +645,7 @@
 | mp3_mp3<br/>sound/testing/mp3.mp3 | mp3_mp3 (sound) - preview unavailable |
 | ogg_ogg<br/>sound/testing/ogg.ogg | ogg_ogg (sound) - preview unavailable |
 | ac3_ac3<br/>sound/testing/ac3.ac3 | ac3_ac3 (sound) - preview unavailable |
+| alarm-1_mp3<br/>sound/alarm-1.mp3 | alarm-1_mp3 (sound) - preview unavailable |
 
 ## luts
 
@@ -655,6 +658,7 @@
 | HorrorBlue_3dl<br/>luts/HorrorBlue.3dl | HorrorBlue_3dl (luts) - preview unavailable |
 | invert_3dl<br/>luts/invert.3dl | invert_3dl (luts) - preview unavailable |
 | LateSunset_3dl<br/>luts/LateSunset.3dl | LateSunset_3dl (luts) - preview unavailable |
+| ColorGrading_3DL<br/>luts/ColorGrading.3DL | ColorGrading_3DL (luts) - preview unavailable |
 
 ## photoDomes
 
@@ -835,6 +839,8 @@
 | leafRotationTexture_png<br/>textures/leafRotationTexture.png | ![leafRotationTexture_png](https://assets.babylonjs.com/generated/leafRotationTexture.png.jpeg) |
 | trail_png<br/>textures/trail.png | ![trail_png](https://assets.babylonjs.com/generated/trail.png.jpeg) |
 | wheelcar_png<br/>textures/wheelcar.png | ![wheelcar_png](https://assets.babylonjs.com/generated/wheelcar.png.jpeg) |
+| leopard_fur_JPG<br/>textures/leopard_fur.JPG | leopard_fur_JPG (textures) - preview unavailable |
+| floor_bump_PNG<br/>textures/floor_bump.PNG | floor_bump_PNG (textures) - preview unavailable |
 
 ## core
 

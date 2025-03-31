@@ -66,13 +66,17 @@ const process = async () => {
   const generateModelThumbnails =
     (process.env && process.env.GENERATE_THUMBNAILS === "true") || false;
   // 1. Launch the browser
-  const browser = await puppeteer.launch({
-    headless: false, //process.env && process.env.HEADLESS === "true",
-  });
+  const browser = generateModelThumbnails
+    ? await puppeteer.launch({
+        headless: false, //process.env && process.env.HEADLESS === "true",
+      })
+    : undefined;
 
-  const page = await browser.newPage();
+  const page = generateModelThumbnails ? await browser.newPage() : undefined;
   // 2. Open a new page
-  await page.setViewport({ width: 200, height: 200 });
+  if (generateModelThumbnails) {
+    await page.setViewport({ width: 200, height: 200 });
+  }
 
   for (const dir of mainDirectories) {
     if (!structure[dir] || !Array.isArray(structure[dir])) {
@@ -131,7 +135,6 @@ const process = async () => {
               waitUntil: "networkidle0",
             }
           );
-          await page.waitForTimeout(200);
           await page.evaluate(
             (sel) => {
               const element = document.querySelector("#canvasZone");
@@ -148,19 +151,42 @@ const process = async () => {
               "#inspector-host",
             ]
           );
-          //   await page.waitForSelector("#babylonjsLoadingDiv", {
-          //     hidden: true,
-          //     timeout: 30000,
-          //   });
+          await page.evaluate(() => {
+            return new Promise((resolve) => {
+              setTimeout(() => {
+                resolve();
+              }, 1000);
+            });
+          });
 
           // 4. Take screenshot
-          newAsset.thumbnail =
-            "data:image/jpeg;base64," +
-            (await page.screenshot({
-              encoding: "base64",
-              type: "jpeg",
-              // clip: { x: 200, y: 200, width: 200, height: 200 },
-            }));
+          const canvas = await page.waitForSelector("#renderCanvas");
+          if (!canvas) {
+            console.error("Canvas not found");
+            continue;
+          }
+          // check that canvas has a width and height
+          const width = await page.evaluate((canvas) => {
+            return canvas.width;
+          }, canvas);
+          const height = await page.evaluate((canvas) => {
+            return canvas.height;
+          }, canvas);
+          if (width === 0 || height === 0) {
+            console.error("Canvas has no width or height");
+            continue;
+          }
+          try {
+            newAsset.thumbnail =
+              "data:image/jpeg;base64," +
+              (await canvas.screenshot({
+                encoding: "base64",
+                type: "jpeg",
+                // clip: { x: 200, y: 200, width: 200, height: 200 },
+              }));
+          } catch (err) {
+            console.error("Error taking screenshot", err);
+          }
         }
         if (index !== -1) {
           structure[dir][index] = {
@@ -173,8 +199,10 @@ const process = async () => {
       }
     }
   }
-  await page.close();
-  await browser.close();
+  if (generateModelThumbnails) {
+    await page.close();
+    await browser.close();
+  }
 };
 process().then(() => {
   fs.writeFileSync(
