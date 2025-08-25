@@ -60,6 +60,7 @@ const fileTypes = {
   meshes: ["babylon", "obj", "stl", "gltf", "glb"],
   nme: ["json"],
   particles: ["json"],
+  lottie: ["json"],
   sound: ["ac3", "mp3", "ogg", "wav"],
 };
 const process = async () => {
