@@ -602,6 +602,7 @@
 | MSFT_lod_test_gltf<br/>meshes/MSFT_lod_test/MSFT_lod_test.gltf | MSFT_lod_test_gltf (meshes) - preview unavailable |
 | MSFT_lod_complex_hierarchy_gltf<br/>meshes/MSFT_lod_complex_hierarchy/MSFT_lod_complex_hierarchy.gltf | MSFT_lod_complex_hierarchy_gltf (meshes) - preview unavailable |
 | MosquitoInAmber_no_extension_glb<br/>meshes/MosquitoInAmber_no_extension/MosquitoInAmber_no_extension.glb | MosquitoInAmber_no_extension_glb (meshes) - preview unavailable |
+| SphereWithTangents_glb<br/>meshes/SphereWithTangents.glb | SphereWithTangents_glb (meshes) - preview unavailable |
 
 ## nme
 
@@ -884,3 +885,5 @@
 | triangles_redParent_json<br/>lottie/triangles_redParent.json | triangles_redParent_json (lottie) - preview unavailable |
 | triangles_noParents_noCross_json<br/>lottie/triangles_noParents_noCross.json | triangles_noParents_noCross_json (lottie) - preview unavailable |
 | triangles_noParents_json<br/>lottie/triangles_noParents.json | triangles_noParents_json (lottie) - preview unavailable |
+| trianglesAndText_json<br/>lottie/trianglesAndText.json | trianglesAndText_json (lottie) - preview unavailable |
+| textTestFile_json<br/>lottie/textTestFile.json | textTestFile_json (lottie) - preview unavailable |
