@@ -4148,6 +4148,12 @@
       "rootUrl": "meshes/MosquitoInAmber_no_extension",
       "filename": "MosquitoInAmber_no_extension.glb",
       "name": "MosquitoInAmber_no_extension_glb"
+    },
+    {
+      "path": "meshes/SphereWithTangents.glb",
+      "rootUrl": "meshes",
+      "filename": "SphereWithTangents.glb",
+      "name": "SphereWithTangents_glb"
     }
   ],
   "nme": [
@@ -5886,6 +5892,18 @@
       "rootUrl": "lottie",
       "filename": "triangles_noParents.json",
       "name": "triangles_noParents_json"
+    },
+    {
+      "path": "lottie/trianglesAndText.json",
+      "rootUrl": "lottie",
+      "filename": "trianglesAndText.json",
+      "name": "trianglesAndText_json"
+    },
+    {
+      "path": "lottie/textTestFile.json",
+      "rootUrl": "lottie",
+      "filename": "textTestFile.json",
+      "name": "textTestFile_json"
     }
   ]
 }
