@@ -4154,6 +4154,12 @@
       "rootUrl": "meshes",
       "filename": "SphereWithTangents.glb",
       "name": "SphereWithTangents_glb"
+    },
+    {
+      "path": "meshes/GothicCloisterCorner/gothic_cloister_corner.glb",
+      "rootUrl": "meshes/GothicCloisterCorner",
+      "filename": "gothic_cloister_corner.glb",
+      "name": "gothic_cloister_corner_glb"
     }
   ],
   "nme": [
@@ -5904,6 +5910,36 @@
       "rootUrl": "lottie",
       "filename": "textTestFile.json",
       "name": "textTestFile_json"
+    },
+    {
+      "path": "lottie/trianglesAndTextWithVariable.json",
+      "rootUrl": "lottie",
+      "filename": "trianglesAndTextWithVariable.json",
+      "name": "trianglesAndTextWithVariable_json"
+    },
+    {
+      "path": "lottie/trianglesAndTextRight.json",
+      "rootUrl": "lottie",
+      "filename": "trianglesAndTextRight.json",
+      "name": "trianglesAndTextRight_json"
+    },
+    {
+      "path": "lottie/trianglesAndTextLeft.json",
+      "rootUrl": "lottie",
+      "filename": "trianglesAndTextLeft.json",
+      "name": "trianglesAndTextLeft_json"
+    },
+    {
+      "path": "lottie/trianglesAndTextCentered.json",
+      "rootUrl": "lottie",
+      "filename": "trianglesAndTextCentered.json",
+      "name": "trianglesAndTextCentered_json"
+    },
+    {
+      "path": "lottie/textTestFileWithVariable.json",
+      "rootUrl": "lottie",
+      "filename": "textTestFileWithVariable.json",
+      "name": "textTestFileWithVariable_json"
     }
   ]
 }

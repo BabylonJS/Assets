@@ -603,6 +603,7 @@
 | MSFT_lod_complex_hierarchy_gltf<br/>meshes/MSFT_lod_complex_hierarchy/MSFT_lod_complex_hierarchy.gltf | MSFT_lod_complex_hierarchy_gltf (meshes) - preview unavailable |
 | MosquitoInAmber_no_extension_glb<br/>meshes/MosquitoInAmber_no_extension/MosquitoInAmber_no_extension.glb | MosquitoInAmber_no_extension_glb (meshes) - preview unavailable |
 | SphereWithTangents_glb<br/>meshes/SphereWithTangents.glb | SphereWithTangents_glb (meshes) - preview unavailable |
+| gothic_cloister_corner_glb<br/>meshes/GothicCloisterCorner/gothic_cloister_corner.glb | gothic_cloister_corner_glb (meshes) - preview unavailable |
 
 ## nme
 
@@ -887,3 +888,8 @@
 | triangles_noParents_json<br/>lottie/triangles_noParents.json | triangles_noParents_json (lottie) - preview unavailable |
 | trianglesAndText_json<br/>lottie/trianglesAndText.json | trianglesAndText_json (lottie) - preview unavailable |
 | textTestFile_json<br/>lottie/textTestFile.json | textTestFile_json (lottie) - preview unavailable |
+| trianglesAndTextWithVariable_json<br/>lottie/trianglesAndTextWithVariable.json | trianglesAndTextWithVariable_json (lottie) - preview unavailable |
+| trianglesAndTextRight_json<br/>lottie/trianglesAndTextRight.json | trianglesAndTextRight_json (lottie) - preview unavailable |
+| trianglesAndTextLeft_json<br/>lottie/trianglesAndTextLeft.json | trianglesAndTextLeft_json (lottie) - preview unavailable |
+| trianglesAndTextCentered_json<br/>lottie/trianglesAndTextCentered.json | trianglesAndTextCentered_json (lottie) - preview unavailable |
+| textTestFileWithVariable_json<br/>lottie/textTestFileWithVariable.json | textTestFileWithVariable_json (lottie) - preview unavailable |
