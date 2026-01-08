@@ -10,9 +10,9 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "glob": "^11.0.1",
-    "image-thumbnail": "^1.0.14",
-    "puppeteer": "^24.4.0",
+    "glob": "^11.0.3",
+    "image-thumbnail": "^1.0.17",
+    "puppeteer": "^24.34.0",
     "uglify-js": "^3.15.3"
   }
 }
