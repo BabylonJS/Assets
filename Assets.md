@@ -604,6 +604,7 @@
 | MosquitoInAmber_no_extension_glb<br/>meshes/MosquitoInAmber_no_extension/MosquitoInAmber_no_extension.glb | MosquitoInAmber_no_extension_glb (meshes) - preview unavailable |
 | SphereWithTangents_glb<br/>meshes/SphereWithTangents.glb | SphereWithTangents_glb (meshes) - preview unavailable |
 | gothic_cloister_corner_glb<br/>meshes/GothicCloisterCorner/gothic_cloister_corner.glb | gothic_cloister_corner_glb (meshes) - preview unavailable |
+| Bee_glb<br/>meshes/Bee.glb | Bee_glb (meshes) - preview unavailable |
 
 ## nme
 
