@@ -4160,6 +4160,12 @@
       "rootUrl": "meshes/GothicCloisterCorner",
       "filename": "gothic_cloister_corner.glb",
       "name": "gothic_cloister_corner_glb"
+    },
+    {
+      "path": "meshes/Bee.glb",
+      "rootUrl": "meshes",
+      "filename": "Bee.glb",
+      "name": "Bee_glb"
     }
   ],
   "nme": [
