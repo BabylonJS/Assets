@@ -4166,6 +4166,12 @@
       "rootUrl": "meshes",
       "filename": "Bee.glb",
       "name": "Bee_glb"
+    },
+    {
+      "path": "meshes/YetiSmall.glb",
+      "rootUrl": "meshes",
+      "filename": "YetiSmall.glb",
+      "name": "YetiSmall_glb"
     }
   ],
   "nme": [

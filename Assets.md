@@ -605,6 +605,7 @@
 | SphereWithTangents_glb<br/>meshes/SphereWithTangents.glb | SphereWithTangents_glb (meshes) - preview unavailable |
 | gothic_cloister_corner_glb<br/>meshes/GothicCloisterCorner/gothic_cloister_corner.glb | gothic_cloister_corner_glb (meshes) - preview unavailable |
 | Bee_glb<br/>meshes/Bee.glb | Bee_glb (meshes) - preview unavailable |
+| YetiSmall_glb<br/>meshes/YetiSmall.glb | YetiSmall_glb (meshes) - preview unavailable |
 
 ## nme
 
