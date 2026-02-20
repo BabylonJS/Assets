@@ -606,6 +606,9 @@
 | gothic_cloister_corner_glb<br/>meshes/GothicCloisterCorner/gothic_cloister_corner.glb | gothic_cloister_corner_glb (meshes) - preview unavailable |
 | Bee_glb<br/>meshes/Bee.glb | Bee_glb (meshes) - preview unavailable |
 | YetiSmall_glb<br/>meshes/YetiSmall.glb | YetiSmall_glb (meshes) - preview unavailable |
+| SheenChair_gltf<br/>meshes/SheenChair.gltf | SheenChair_gltf (meshes) - preview unavailable |
+| StandardShaderBall_gltf<br/>meshes/StandardShaderBall/StandardShaderBall.gltf | StandardShaderBall_gltf (meshes) - preview unavailable |
+| StandardShaderBall_glb<br/>meshes/StandardShaderBall/StandardShaderBall.glb | StandardShaderBall_glb (meshes) - preview unavailable |
 
 ## nme
 
