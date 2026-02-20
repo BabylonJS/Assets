@@ -4172,6 +4172,24 @@
       "rootUrl": "meshes",
       "filename": "YetiSmall.glb",
       "name": "YetiSmall_glb"
+    },
+    {
+      "path": "meshes/SheenChair.gltf",
+      "rootUrl": "meshes",
+      "filename": "SheenChair.gltf",
+      "name": "SheenChair_gltf"
+    },
+    {
+      "path": "meshes/StandardShaderBall/StandardShaderBall.gltf",
+      "rootUrl": "meshes/StandardShaderBall",
+      "filename": "StandardShaderBall.gltf",
+      "name": "StandardShaderBall_gltf"
+    },
+    {
+      "path": "meshes/StandardShaderBall/StandardShaderBall.glb",
+      "rootUrl": "meshes/StandardShaderBall",
+      "filename": "StandardShaderBall.glb",
+      "name": "StandardShaderBall_glb"
     }
   ],
   "nme": [
