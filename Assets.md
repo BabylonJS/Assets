@@ -609,6 +609,11 @@
 | SheenChair_gltf<br/>meshes/SheenChair.gltf | SheenChair_gltf (meshes) - preview unavailable |
 | StandardShaderBall_gltf<br/>meshes/StandardShaderBall/StandardShaderBall.gltf | StandardShaderBall_gltf (meshes) - preview unavailable |
 | StandardShaderBall_glb<br/>meshes/StandardShaderBall/StandardShaderBall.glb | StandardShaderBall_glb (meshes) - preview unavailable |
+| Big_Vegas_glb<br/>mixamo/Characters/Big Vegas.glb | Big_Vegas_glb (meshes) - preview unavailable |
+| Ch14_nonPBR_glb<br/>mixamo/Characters/Ch14_nonPBR.glb | Ch14_nonPBR (meshes) - preview unavailable |
+| goblin_d_shareyko_glb<br/>mixamo/Characters/goblin_d_shareyko.glb | goblin_d_shareyko (meshes) - preview unavailable |
+| rpm_glb<br/>mixamo/Characters/rpm.glb | rpm (meshes) - preview unavailable |
+| Whiteclown_N_Hallin_glb<br/>mixamo/Characters/Whiteclown N Hallin.glb | Whiteclown N Hallin (meshes) - preview unavailable |
 
 ## nme
 
@@ -898,3 +903,17 @@
 | trianglesAndTextLeft_json<br/>lottie/trianglesAndTextLeft.json | trianglesAndTextLeft_json (lottie) - preview unavailable |
 | trianglesAndTextCentered_json<br/>lottie/trianglesAndTextCentered.json | trianglesAndTextCentered_json (lottie) - preview unavailable |
 | textTestFileWithVariable_json<br/>lottie/textTestFileWithVariable.json | textTestFileWithVariable_json (lottie) - preview unavailable |
+
+## animations
+
+| Asset | Preview |
+| ------------- | -----:|
+| Catwalk_Walking<br/>mixamo/Animations/Catwalk Walking.glb | Catwalk Walking (animations) - preview unavailable |
+| Hip_Hop_Dancing<br/>mixamo/Animations/Hip Hop Dancing.glb | Hip Hop Dancing (animations) - preview unavailable |
+| hiphop<br/>mixamo/Animations/hiphop.glb | hiphop (animations) - preview unavailable |
+| Mousey_walking<br/>mixamo/Animations/Mousey_walking.glb | Mousey_walking (animations) - preview unavailable |
+| Praying<br/>mixamo/Animations/Praying.glb | Praying (animations) - preview unavailable |
+| Praying_with_skin<br/>mixamo/Animations/Praying_with_skin.glb | Praying_with_skin (animations) - preview unavailable |
+| Rumba_Dancing<br/>mixamo/Animations/Rumba Dancing.glb | Rumba Dancing (animations) - preview unavailable |
+| Sitting_Clap<br/>mixamo/Animations/Sitting Clap.glb | Sitting Clap (animations) - preview unavailable |
+| Walking<br/>mixamo/Animations/Walking.glb | Walking (animations) - preview unavailable |
