@@ -4190,6 +4190,36 @@
       "rootUrl": "meshes/StandardShaderBall",
       "filename": "StandardShaderBall.glb",
       "name": "StandardShaderBall_glb"
+    },
+    {
+      "path": "mixamo/Characters/Big Vegas.glb",
+      "rootUrl": "mixamo/Characters",
+      "filename": "Big Vegas.glb",
+      "name": "Big_Vegas_glb"
+    },
+    {
+      "path": "mixamo/Characters/Ch14_nonPBR.glb",
+      "rootUrl": "mixamo/Characters",
+      "filename": "Ch14_nonPBR.glb",
+      "name": "Ch14_nonPBR_glb"
+    },
+    {
+      "path": "mixamo/Characters/goblin_d_shareyko.glb",
+      "rootUrl": "mixamo/Characters",
+      "filename": "goblin_d_shareyko.glb",
+      "name": "goblin_d_shareyko_glb"
+    },
+    {
+      "path": "mixamo/Characters/rpm.glb",
+      "rootUrl": "mixamo/Characters",
+      "filename": "rpm.glb",
+      "name": "rpm_glb"
+    },
+    {
+      "path": "mixamo/Characters/Whiteclown N Hallin.glb",
+      "rootUrl": "mixamo/Characters",
+      "filename": "Whiteclown N Hallin.glb",
+      "name": "Whiteclown_N_Hallin_glb"
     }
   ],
   "nme": [
@@ -5970,6 +6000,62 @@
       "rootUrl": "lottie",
       "filename": "textTestFileWithVariable.json",
       "name": "textTestFileWithVariable_json"
+    }
+  ],
+  "animation": [
+    {
+      "path": "mixamo/Animations/Catwalk Walking.glb",
+      "rootUrl": "mixamo/Animations",
+      "filename": "Catwalk Walking.glb",
+      "name": "Catwalk_Walking_glb"
+    },
+    {
+      "path": "mixamo/Animations/Hip Hop Dancing.glb",
+      "rootUrl": "mixamo/Animations",
+      "filename": "Hip Hop Dancing.glb",
+      "name": "Hip_Hop_Dancing_glb"
+    },
+    {
+      "path": "mixamo/Animations/hiphop.glb",
+      "rootUrl": "mixamo/Animations",
+      "filename": "hiphop.glb",
+      "name": "hiphop_glb"
+    },
+    {
+      "path": "mixamo/Animations/Mousey_walking.glb",
+      "rootUrl": "mixamo/Animations",
+      "filename": "Mousey_walking.glb",
+      "name": "Mousey_walking_glb"
+    },
+    {
+      "path": "mixamo/Animations/Praying.glb",
+      "rootUrl": "mixamo/Animations",
+      "filename": "Praying.glb",
+      "name": "Praying_glb"
+    },
+    {
+      "path": "mixamo/Animations/Praying_with_skin.glb",
+      "rootUrl": "mixamo/Animations",
+      "filename": "Praying_with_skin.glb",
+      "name": "Praying_with_skin_glb"
+    },
+    {
+      "path": "mixamo/Animations/Rumba Dancing.glb",
+      "rootUrl": "mixamo/Animations",
+      "filename": "Rumba Dancing.glb",
+      "name": "Rumba_Dancing_glb"
+    },
+    {
+      "path": "mixamo/Animations/Sitting Clap.glb",
+      "rootUrl": "mixamo/Animations",
+      "filename": "Sitting Clap.glb",
+      "name": "Sitting_Clap_glb"
+    },
+    {
+      "path": "mixamo/Animations/Walking.glb",
+      "rootUrl": "mixamo/Animations",
+      "filename": "Walking.glb",
+      "name": "Walking_glb"
     }
   ]
 }
