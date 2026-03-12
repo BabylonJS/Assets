@@ -4162,6 +4162,12 @@
       "name": "gothic_cloister_corner_glb"
     },
     {
+      "path": "meshes/GothicCloisterCorner/gothic_cloister_corner_mobile.glb",
+      "rootUrl": "meshes/GothicCloisterCorner",
+      "filename": "gothic_cloister_corner_mobile.glb",
+      "name": "gothic_cloister_corner_mobile_glb"
+    },
+    {
       "path": "meshes/Bee.glb",
       "rootUrl": "meshes",
       "filename": "Bee.glb",
