@@ -5940,6 +5940,20 @@
       "filename": "particleFlowMap_flowmap.png",
       "name": "particleFlowMap_flowmap_png",
       "thumbnail": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABkAGQDASIAAhEBAxEB/8QAHAAAAwEAAwEBAAAAAAAAAAAAAAQFAwIGBwEI/8QAIBAAAQQDAQEBAQEAAAAAAAAAAAECAwQRMWEhQRITFP/EABkBAQEBAQEBAAAAAAAAAAAAAAUEAwgGAv/EABsRAQEBAQEBAQEAAAAAAAAAAAADAgEEExEh/9oADAMBAAIRAxEAPwD85xwjEcIwyHgxHDw97qiWFi8cI1FXV2kHa1RXKmUK1alrwm3b8LxslQ0lXaDsVHhbgpa8HYqXCXdysboDKPDRKWPh2RtLhz/xcJ9WKw9DraVVT4ashx8Ly0+GbqnDHVTPn9H6mxwjEcIykCtX1DdkXDHVDcLFmw+AUEi8Ax+hDlXl0cXB6rV/SoqoaQwfp2MFmlW14Obq5nhVxqVNeFirT14b06uvC1Vq68I6VMRoSr09eD8VLhUr1NeFCKnwl1UjKqG2nw+rT4diSnw+OqcMe0Iys626pwxfV4dkfV4LyVuGXaF/Pd1x9XhxbDhcYLklfhg6vhdGWqH/AC3IJD5oCg2LzQGX0K8s81pwZXRdpV9eCtKHXhepQ6G6Uc1eahqnX14W6lfXgvTh14XacOiPdDUdtKtbXhThqeaNKkOizWrZRPCfWyU9pX+TzRlJW4dkdVw3QnPBj4Zd2snR12WvwUlg4XpohOWIz1snCqHJBwXfBwtSRC74TDdDvlsk/wAeAUVh4Bh9DPLfx5vSi14XaceifUjxgt1GaHN0c2eWyjTj0W6jNEyo3RYqpon1s/CqtUbotVFRMEWsuMFKF+DHuis9qsr0c0nToi5NP6ZQykdk+O6WY0SmbsTkYUJEF3tMNbXx2nPj4YviKLmGaxkm6GvPROWLgFD+QE/0Lcr/AB5hXjw4rVW6Fo4uFCs3Q7qjmry3/FCsmipX+E+umijB8Me0eh891GBR2NwhD8G41M+0MRsbRwKpk1TmhlqhCdXxxmrTbAfkm3UhKhZWHz+Y1+Dk2LKkVKl/PQqkXgFBsPmgJ/oS5Z5cyEZijwpvHCMRwj2quZoWEDR+FDGOLA3E0w1U55/QYiQajQxjaNRtMu2Nw9Dm1DVqAxps1hhqxSV3FGnJGGrWGzI8ku7FI2YNjNo4RhkIxHCS7qWhYs2LwCg2HwDH6EOWeWRtQYjagAei05tgYjagwxqABhovAzG1BiNEACfRiHTLEQ3Y1AAn30xHphjUGI2oAE+i8DEbUGY2p4AE+i8G7WpgAAxIcf/Z"
+    },
+    {
+      "path": "textures/demos/npe_flowmap_attractors/textures/particleTexture.png",
+      "rootUrl": "textures/demos/npe_flowmap_attractors/textures",
+      "filename": "particleTexture.png",
+      "name": "particleTexture_png",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABkAGQDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAMBAgQFCAYH/8QAKhAAAgICAQMEAAYDAAAAAAAAAAECAwQRBQYSMQchQWETIlFystFxgZH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A5UAAAAqkBQF6j9Fe1gRgk7WHECMFzRRrQFAAAAAAArFAVSJIxEImTVXsCONeyRU/RmVUb+DLhiN/AGpdL/QslV9G8eI9eDHtxmvgDTSgRtaNjbVoxLIaAxmtFC+SLAAAAF8V4LCSPkCeqPubDGr20YdC2zb4UNyQGwwMNzaSR6bB4Gy2Kca2/wDQ6ZxFbfWmvLOs/T/ozhZ9MYd+RhxsyJqTlJykt+717bA5Xt6aujHf4T/4aHkuLlS33RaO6p9G8FOOpYENful/Zz361dPYnGc3kV4NSrpWnGO29flXy/sDnfLo7W/Y1V8NbPUcrUozkeeyY+QNZNaIn5J7fJDIC0AACSPkjJIsDMx37o3OC/zI0dMjaYlmmgPo3SNkY5FW/wBUdmdAyU+k8CS8dsv5M4V4bO/BnFp+D7N0t6q8lxnHVYdWRqmvfbFxi9be38bA6lOdfXy2K5y+O1tKP8ULvWPk1B9t6T/ZH+j5b1x1bkc7mW5OXZ32z8vSXha+P8AeG5iSdkjzeU/JtuQv7mzSZEgMK3yQSJbGQyAoAABdFlpVewE9ctMzaLNGui9E0J6A3uNkuPybOnkZRS1I8vXdr5J43/YHppcnJr3kYOTmuW/fZqXkfZFO/wCwJ8i7e/cwLZ7FlmyCctgWyeyN+SsmWgAAAAAFU9FyZYAJlMuVhBsrsCf8QtcyLZTYEjlssbKbKAAAAAAAAAAAAAAAAAAAAAAAAAf/2Q=="
+    },
+    {
+      "path": "textures/demos/npe_flowmap_attractors/textures/particleFlowMap_flowmap.png",
+      "rootUrl": "textures/demos/npe_flowmap_attractors/textures",
+      "filename": "particleFlowMap_flowmap.png",
+      "name": "particleFlowMap_flowmap_png",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABkAGQDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAABAUAAwYBAgf/xAAhEAABBAMBAAMBAQAAAAAAAAAAAQIDBCExYRETQVESFP/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQYH/8QAGxEAAwEBAQEBAAAAAAAAAAAAAAIDAQQSESH/2gAMAwEAAhEDEQA/AN9HN0Ijm6JI5+hEc3TUsxwSEB2yfoTHN6JoZPQ2J4u7lrn5t0bRydCY5OiyN4TG8WZy3DlGTJC9kvRcx5a14uzlaPMM2TdCGTdFLZC1soBmKkYDmOboQyfokZN0IZP0AzFaEB0k+NkFjZ8bIB9FDIHhbJ+hcEnqoIopvV2M6z9GldzinNz/AEdwP0MIXCiu7QygXQo7mh5uYZRLoKjUDh+guNBZnLUecIapYjilp29A6xRnEuR53SQGVxx/YJmKEohiSlrJui35DlJRdmKsIjds2CC1JsbIC9FLIHh9WX1RzVk0ZinLod1JdGjoxxflgaOq73wbVl0IKkmh1UdoUdjQc8RxX+g+JoBVX3wbV2eoguzFaUjhGnDk8DHReICy4B7o6kwdylTnnMrgWR4JtH4zLVkOvygr5Cp0ou7FfnkMEmwQWfMQB6K2Q/DxWlPrI+pzayYylY1kf0rGsmjdji3NE2FOXQ9py6MfSsayPadhMZFm0txma6nLoeU5UTwyFSz55kawW/E2B3SlNDTyztc3AtsSpkDW5jYPLZ9+we6NzmWzSbApZSqafoHLP0CzFOEgiSYHfMCSTg75+irsXOaIes5BX8/SC/os5D8PDqtjx2x7StayYuOfxdjWlb1k0jscThE3tO1rI7qWtZMJTuayOqtzWQDMV4yNzWt6yMobmNmKr3dZD4rvQOsUZyNalzp0fb6Z1t3pFudBMw/KA6ktdBJbKforfc6DyW+i7uVufnGUlnoO+z0WSWulK2PV2Ku5oOXnG6T42QWJPjZBf0V8geFxz9CobP8AK7ETJ+hDJumlZjiMIGrqXdZHNW9rJhIrCtXCjGve889UXZitGBvoL2sh0V7phoL+sh0V/oFnKcuc2jb3Tt/u6ZFl/pYl/oBnKkeY07rvSl9zpnVvdOP9au+xd3LXPyj11v1cKd2T9EbJ+hMc3RVmLsIfBy2bGyCxs2CAfRRyB4exy/oRG5f0hDUMcKhgRG5f0IjcpCC7FeAVHI5NKFRTP/SEF2K8cCGTv/S9sr1+yEF2K8MwuY9f0IY5SEF2LEMCI3KExuUhBdivDC9rl82QhARRw//Z"
     }
   ],
   "core": [],
@@ -6006,6 +6020,54 @@
       "rootUrl": "lottie",
       "filename": "textTestFileWithVariable.json",
       "name": "textTestFileWithVariable_json"
+    },
+    {
+      "path": "lottie/zOrder.json",
+      "rootUrl": "lottie",
+      "filename": "zOrder.json",
+      "name": "zOrder_json"
+    },
+    {
+      "path": "lottie/strokes.json",
+      "rootUrl": "lottie",
+      "filename": "strokes.json",
+      "name": "strokes_json"
+    },
+    {
+      "path": "lottie/rectangles.json",
+      "rootUrl": "lottie",
+      "filename": "rectangles.json",
+      "name": "rectangles_json"
+    },
+    {
+      "path": "lottie/nullLayerParenting.json",
+      "rootUrl": "lottie",
+      "filename": "nullLayerParenting.json",
+      "name": "nullLayerParenting_json"
+    },
+    {
+      "path": "lottie/gradientFill.json",
+      "rootUrl": "lottie",
+      "filename": "gradientFill.json",
+      "name": "gradientFill_json"
+    },
+    {
+      "path": "lottie/animated_rotation.json",
+      "rootUrl": "lottie",
+      "filename": "animated_rotation.json",
+      "name": "animated_rotation_json"
+    },
+    {
+      "path": "lottie/animated_position.json",
+      "rootUrl": "lottie",
+      "filename": "animated_position.json",
+      "name": "animated_position_json"
+    },
+    {
+      "path": "lottie/animated_opacity.json",
+      "rootUrl": "lottie",
+      "filename": "animated_opacity.json",
+      "name": "animated_opacity_json"
     }
   ],
   "animation": [
@@ -6063,5 +6125,6 @@
       "filename": "Walking.glb",
       "name": "Walking_glb"
     }
-  ]
+  ],
+  "mixamo": []
 }
