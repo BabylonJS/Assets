@@ -611,10 +611,10 @@
 | StandardShaderBall_gltf<br/>meshes/StandardShaderBall/StandardShaderBall.gltf | StandardShaderBall_gltf (meshes) - preview unavailable |
 | StandardShaderBall_glb<br/>meshes/StandardShaderBall/StandardShaderBall.glb | StandardShaderBall_glb (meshes) - preview unavailable |
 | Big_Vegas_glb<br/>mixamo/Characters/Big Vegas.glb | Big_Vegas_glb (meshes) - preview unavailable |
-| Ch14_nonPBR_glb<br/>mixamo/Characters/Ch14_nonPBR.glb | Ch14_nonPBR (meshes) - preview unavailable |
-| goblin_d_shareyko_glb<br/>mixamo/Characters/goblin_d_shareyko.glb | goblin_d_shareyko (meshes) - preview unavailable |
-| rpm_glb<br/>mixamo/Characters/rpm.glb | rpm (meshes) - preview unavailable |
-| Whiteclown_N_Hallin_glb<br/>mixamo/Characters/Whiteclown N Hallin.glb | Whiteclown N Hallin (meshes) - preview unavailable |
+| Ch14_nonPBR_glb<br/>mixamo/Characters/Ch14_nonPBR.glb | Ch14_nonPBR_glb (meshes) - preview unavailable |
+| goblin_d_shareyko_glb<br/>mixamo/Characters/goblin_d_shareyko.glb | goblin_d_shareyko_glb (meshes) - preview unavailable |
+| rpm_glb<br/>mixamo/Characters/rpm.glb | rpm_glb (meshes) - preview unavailable |
+| Whiteclown_N_Hallin_glb<br/>mixamo/Characters/Whiteclown N Hallin.glb | Whiteclown_N_Hallin_glb (meshes) - preview unavailable |
 
 ## nme
 
@@ -869,6 +869,8 @@
 | particleFlowMap_repelSpots_png<br/>textures/particleFlowMap_repelSpots.png | ![particleFlowMap_repelSpots_png](https://assets.babylonjs.com/generated/particleFlowMap_repelSpots.png.jpeg) |
 | particleFlowMap_noise_png<br/>textures/particleFlowMap_noise.png | ![particleFlowMap_noise_png](https://assets.babylonjs.com/generated/particleFlowMap_noise.png.jpeg) |
 | particleFlowMap_flowmap_png<br/>textures/particleFlowMap_flowmap.png | ![particleFlowMap_flowmap_png](https://assets.babylonjs.com/generated/particleFlowMap_flowmap.png.jpeg) |
+| particleTexture_png<br/>textures/demos/npe_flowmap_attractors/textures/particleTexture.png | ![particleTexture_png](https://assets.babylonjs.com/generated/particleTexture.png.jpeg) |
+| particleFlowMap_flowmap_png<br/>textures/demos/npe_flowmap_attractors/textures/particleFlowMap_flowmap.png | ![particleFlowMap_flowmap_png](https://assets.babylonjs.com/generated/particleFlowMap_flowmap.png.jpeg) |
 
 ## core
 
@@ -904,17 +906,30 @@
 | trianglesAndTextLeft_json<br/>lottie/trianglesAndTextLeft.json | trianglesAndTextLeft_json (lottie) - preview unavailable |
 | trianglesAndTextCentered_json<br/>lottie/trianglesAndTextCentered.json | trianglesAndTextCentered_json (lottie) - preview unavailable |
 | textTestFileWithVariable_json<br/>lottie/textTestFileWithVariable.json | textTestFileWithVariable_json (lottie) - preview unavailable |
+| zOrder_json<br/>lottie/zOrder.json | zOrder_json (lottie) - preview unavailable |
+| strokes_json<br/>lottie/strokes.json | strokes_json (lottie) - preview unavailable |
+| rectangles_json<br/>lottie/rectangles.json | rectangles_json (lottie) - preview unavailable |
+| nullLayerParenting_json<br/>lottie/nullLayerParenting.json | nullLayerParenting_json (lottie) - preview unavailable |
+| gradientFill_json<br/>lottie/gradientFill.json | gradientFill_json (lottie) - preview unavailable |
+| animated_rotation_json<br/>lottie/animated_rotation.json | animated_rotation_json (lottie) - preview unavailable |
+| animated_position_json<br/>lottie/animated_position.json | animated_position_json (lottie) - preview unavailable |
+| animated_opacity_json<br/>lottie/animated_opacity.json | animated_opacity_json (lottie) - preview unavailable |
 
-## animations
+## animation
 
 | Asset | Preview |
 | ------------- | -----:|
-| Catwalk_Walking<br/>mixamo/Animations/Catwalk Walking.glb | Catwalk Walking (animations) - preview unavailable |
-| Hip_Hop_Dancing<br/>mixamo/Animations/Hip Hop Dancing.glb | Hip Hop Dancing (animations) - preview unavailable |
-| hiphop<br/>mixamo/Animations/hiphop.glb | hiphop (animations) - preview unavailable |
-| Mousey_walking<br/>mixamo/Animations/Mousey_walking.glb | Mousey_walking (animations) - preview unavailable |
-| Praying<br/>mixamo/Animations/Praying.glb | Praying (animations) - preview unavailable |
-| Praying_with_skin<br/>mixamo/Animations/Praying_with_skin.glb | Praying_with_skin (animations) - preview unavailable |
-| Rumba_Dancing<br/>mixamo/Animations/Rumba Dancing.glb | Rumba Dancing (animations) - preview unavailable |
-| Sitting_Clap<br/>mixamo/Animations/Sitting Clap.glb | Sitting Clap (animations) - preview unavailable |
-| Walking<br/>mixamo/Animations/Walking.glb | Walking (animations) - preview unavailable |
+| Catwalk_Walking_glb<br/>mixamo/Animations/Catwalk Walking.glb | Catwalk_Walking_glb (animation) - preview unavailable |
+| Hip_Hop_Dancing_glb<br/>mixamo/Animations/Hip Hop Dancing.glb | Hip_Hop_Dancing_glb (animation) - preview unavailable |
+| hiphop_glb<br/>mixamo/Animations/hiphop.glb | hiphop_glb (animation) - preview unavailable |
+| Mousey_walking_glb<br/>mixamo/Animations/Mousey_walking.glb | Mousey_walking_glb (animation) - preview unavailable |
+| Praying_glb<br/>mixamo/Animations/Praying.glb | Praying_glb (animation) - preview unavailable |
+| Praying_with_skin_glb<br/>mixamo/Animations/Praying_with_skin.glb | Praying_with_skin_glb (animation) - preview unavailable |
+| Rumba_Dancing_glb<br/>mixamo/Animations/Rumba Dancing.glb | Rumba_Dancing_glb (animation) - preview unavailable |
+| Sitting_Clap_glb<br/>mixamo/Animations/Sitting Clap.glb | Sitting_Clap_glb (animation) - preview unavailable |
+| Walking_glb<br/>mixamo/Animations/Walking.glb | Walking_glb (animation) - preview unavailable |
+
+## mixamo
+
+| Asset | Preview |
+| ------------- | -----:|
