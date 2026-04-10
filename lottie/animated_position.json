@@ -2,7 +2,7 @@
     "v": "5.7.0",
     "fr": 30,
     "ip": 0,
-    "op": 60,
+    "op": 61,
     "w": 400,
     "h": 400,
     "nm": "Animated Position Test",
@@ -12,7 +12,7 @@
             "ty": 4,
             "nm": "Moving Square",
             "ip": 0,
-            "op": 60,
+            "op": 61,
             "st": 0,
             "ks": {
                 "o": { "a": 0, "k": 100 },
