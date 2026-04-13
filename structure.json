@@ -6068,6 +6068,12 @@
       "rootUrl": "lottie",
       "filename": "animated_opacity.json",
       "name": "animated_opacity_json"
+    },
+    {
+      "path": "lottie/ellipse_basic.json",
+      "rootUrl": "lottie",
+      "filename": "ellipse_basic.json",
+      "name": "ellipse_basic_json"
     }
   ],
   "animation": [
