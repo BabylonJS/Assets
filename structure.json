@@ -6074,6 +6074,12 @@
       "rootUrl": "lottie",
       "filename": "ellipse_basic.json",
       "name": "ellipse_basic_json"
+    },
+    {
+      "path": "lottie/multiPageAtlas.json",
+      "rootUrl": "lottie",
+      "filename": "multiPageAtlas.json",
+      "name": "multiPageAtlas_json"
     }
   ],
   "animation": [
