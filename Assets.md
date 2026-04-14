@@ -915,6 +915,7 @@
 | animated_position_json<br/>lottie/animated_position.json | animated_position_json (lottie) - preview unavailable |
 | animated_opacity_json<br/>lottie/animated_opacity.json | animated_opacity_json (lottie) - preview unavailable |
 | ellipse_basic_json<br/>lottie/ellipse_basic.json | ellipse_basic_json (lottie) - preview unavailable |
+| multiPageAtlas_json<br/>lottie/multiPageAtlas.json | multiPageAtlas_json (lottie) - preview unavailable |
 
 ## animation
 
