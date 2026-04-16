@@ -916,6 +916,9 @@
 | animated_opacity_json<br/>lottie/animated_opacity.json | animated_opacity_json (lottie) - preview unavailable |
 | ellipse_basic_json<br/>lottie/ellipse_basic.json | ellipse_basic_json (lottie) - preview unavailable |
 | multiPageAtlas_json<br/>lottie/multiPageAtlas.json | multiPageAtlas_json (lottie) - preview unavailable |
+| textSingleLineAnchor_json<br/>lottie/textSingleLineAnchor.json | textSingleLineAnchor_json (lottie) - preview unavailable |
+| textParagraphBoxWrap_json<br/>lottie/textParagraphBoxWrap.json | textParagraphBoxWrap_json (lottie) - preview unavailable |
+| textMultilineTracking_json<br/>lottie/textMultilineTracking.json | textMultilineTracking_json (lottie) - preview unavailable |
 
 ## animation
 

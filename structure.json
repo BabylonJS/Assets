@@ -6080,6 +6080,24 @@
       "rootUrl": "lottie",
       "filename": "multiPageAtlas.json",
       "name": "multiPageAtlas_json"
+    },
+    {
+      "path": "lottie/textSingleLineAnchor.json",
+      "rootUrl": "lottie",
+      "filename": "textSingleLineAnchor.json",
+      "name": "textSingleLineAnchor_json"
+    },
+    {
+      "path": "lottie/textParagraphBoxWrap.json",
+      "rootUrl": "lottie",
+      "filename": "textParagraphBoxWrap.json",
+      "name": "textParagraphBoxWrap_json"
+    },
+    {
+      "path": "lottie/textMultilineTracking.json",
+      "rootUrl": "lottie",
+      "filename": "textMultilineTracking.json",
+      "name": "textMultilineTracking_json"
     }
   ],
   "animation": [

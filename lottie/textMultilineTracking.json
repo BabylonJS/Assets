@@ -1,0 +1,62 @@
+{
+    "v": "5.12.0",
+    "fr": 60,
+    "ip": 0,
+    "op": 60,
+    "w": 512,
+    "h": 512,
+    "nm": "Text Multiline Tracking",
+    "fonts": {
+        "list": [
+            {
+                "fName": "Arial-Regular",
+                "fFamily": "Arial",
+                "fStyle": "Regular",
+                "fWeight": "400",
+                "ascent": 75
+            }
+        ]
+    },
+    "layers": [
+        {
+            "ind": 1,
+            "ty": 5,
+            "nm": "Multiline",
+            "ip": 0,
+            "op": 60,
+            "st": 0,
+            "ks": {
+                "a": { "a": 0, "k": [0, 0], "l": 2 },
+                "p": { "a": 0, "k": [256, 256], "l": 2 },
+                "r": { "a": 0, "k": 0 },
+                "s": { "a": 0, "k": [100, 100], "l": 2 },
+                "o": { "a": 0, "k": 100 }
+            },
+            "t": {
+                "a": [],
+                "d": {
+                    "k": [
+                        {
+                            "t": 0,
+                            "s": {
+                                "f": "Arial-Regular",
+                                "s": 48,
+                                "lh": 60,
+                                "t": "HELLO\rWORLD\rBABYLON",
+                                "ca": 0,
+                                "j": 2,
+                                "fc": [0.1, 0.15, 0.45],
+                                "ls": 0,
+                                "tr": 40
+                            }
+                        }
+                    ]
+                },
+                "m": {
+                    "a": { "a": 0, "k": [0, 0], "l": 2 },
+                    "g": 1
+                }
+            }
+        }
+    ]
+}
