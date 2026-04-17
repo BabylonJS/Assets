@@ -919,6 +919,7 @@
 | textSingleLineAnchor_json<br/>lottie/textSingleLineAnchor.json | textSingleLineAnchor_json (lottie) - preview unavailable |
 | textParagraphBoxWrap_json<br/>lottie/textParagraphBoxWrap.json | textParagraphBoxWrap_json (lottie) - preview unavailable |
 | textMultilineTracking_json<br/>lottie/textMultilineTracking.json | textMultilineTracking_json (lottie) - preview unavailable |
+| textChildParent_json<br/>lottie/textChildParent.json | textChildParent_json (lottie) - preview unavailable |
 
 ## animation
 
