@@ -6098,6 +6098,12 @@
       "rootUrl": "lottie",
       "filename": "textMultilineTracking.json",
       "name": "textMultilineTracking_json"
+    },
+    {
+      "path": "lottie/textChildParent.json",
+      "rootUrl": "lottie",
+      "filename": "textChildParent.json",
+      "name": "textChildParent_json"
     }
   ],
   "animation": [
