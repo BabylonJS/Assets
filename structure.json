@@ -6104,6 +6104,24 @@
       "rootUrl": "lottie",
       "filename": "textChildParent.json",
       "name": "textChildParent_json"
+    },
+    {
+      "path": "lottie/gradient_stroke.json",
+      "rootUrl": "lottie",
+      "filename": "gradient_stroke.json",
+      "name": "gradient_stroke_json"
+    },
+    {
+      "path": "lottie/animated_fill_stroke.json",
+      "rootUrl": "lottie",
+      "filename": "animated_fill_stroke.json",
+      "name": "animated_fill_stroke_json"
+    },
+    {
+      "path": "lottie/animated_dash.json",
+      "rootUrl": "lottie",
+      "filename": "animated_dash.json",
+      "name": "animated_dash_json"
     }
   ],
   "animation": [
