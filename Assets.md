@@ -920,6 +920,9 @@
 | textParagraphBoxWrap_json<br/>lottie/textParagraphBoxWrap.json | textParagraphBoxWrap_json (lottie) - preview unavailable |
 | textMultilineTracking_json<br/>lottie/textMultilineTracking.json | textMultilineTracking_json (lottie) - preview unavailable |
 | textChildParent_json<br/>lottie/textChildParent.json | textChildParent_json (lottie) - preview unavailable |
+| gradient_stroke_json<br/>lottie/gradient_stroke.json | gradient_stroke_json (lottie) - preview unavailable |
+| animated_fill_stroke_json<br/>lottie/animated_fill_stroke.json | animated_fill_stroke_json (lottie) - preview unavailable |
+| animated_dash_json<br/>lottie/animated_dash.json | animated_dash_json (lottie) - preview unavailable |
 
 ## animation
 
