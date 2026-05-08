@@ -4226,6 +4226,12 @@
       "rootUrl": "mixamo/Characters",
       "filename": "Whiteclown N Hallin.glb",
       "name": "Whiteclown_N_Hallin_glb"
+    },
+    {
+      "path": "meshes/SurfaceTinting/surface_transmission.glb",
+      "rootUrl": "meshes/SurfaceTinting",
+      "filename": "surface_transmission.glb",
+      "name": "surface_transmission_glb"
     }
   ],
   "nme": [

@@ -615,6 +615,7 @@
 | goblin_d_shareyko_glb<br/>mixamo/Characters/goblin_d_shareyko.glb | goblin_d_shareyko_glb (meshes) - preview unavailable |
 | rpm_glb<br/>mixamo/Characters/rpm.glb | rpm_glb (meshes) - preview unavailable |
 | Whiteclown_N_Hallin_glb<br/>mixamo/Characters/Whiteclown N Hallin.glb | Whiteclown_N_Hallin_glb (meshes) - preview unavailable |
+| surface_transmission_glb<br/>meshes/SurfaceTinting/surface_transmission.glb | surface_transmission_glb (meshes) - preview unavailable |
 
 ## nme
 
