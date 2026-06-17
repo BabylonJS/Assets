@@ -1,0 +1,10 @@
+Model from https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/FlightHelmet
+
+----------------------------------------------------------------------------
+Flight Helmet by Microsoft licensed under CC0 1.0 Universal (public domain dedication)
+
+Title: Flight Helmet
+Author: Microsoft
+License: CC0-1.0
+Source: https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/FlightHelmet
+----------------------------------------------------------------------------
