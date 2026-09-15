@@ -1,0 +1,17 @@
+coastalCliff.glb
+================
+
+This asset was built using assets from the "Poly Haven - Nature" collection:
+
+    https://polyhaven.com/
+
+Poly Haven assets are released under the CC0 1.0 Universal public-domain
+dedication:
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+coastalCliff.glb is a processed composition and is not distributed in its
+original source form. Textures and geometry have been resized, reduced, and
+compressed to better suit real-time rendering scenarios.
+
+Poly Haven did not produce or endorse this processed asset.
