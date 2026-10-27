@@ -24,6 +24,12 @@
   ],
   "meshes": [
     {
+      "path": "meshes/BentNormalTest/bent_normal_test.gltf",
+      "rootUrl": "meshes/BentNormalTest",
+      "filename": "bent_normal_test.gltf",
+      "name": "bent_normal_test_gltf"
+    },
+    {
       "path": "meshes/aerobatic_plane.glb",
       "rootUrl": "meshes",
       "filename": "aerobatic_plane.glb",
