@@ -1,0 +1,359 @@
+{
+  "source": {
+    "repository": "https://github.com/Unity-Technologies/Classic-Sponza",
+    "commit": "660b3d777515bf9d7eb3e671ff94da45c97b064b",
+    "file": "sponza.glb",
+    "bytes": 130758812,
+    "sha256": "9e172f0c3be542c2574829394f3a97432af5373d26303b4af193e0ddbb0507a9"
+  },
+  "output": {
+    "file": "sponza-uastc-meshopt.glb",
+    "bytes": 73312556,
+    "sha256": "b13330e6618dc1baeb078b98e4a30c78e826d0c34ad868b5a54067e078e201bb",
+    "reductionPercent": 43.932990152893105
+  },
+  "textures": {
+    "format": "KTX2 UASTC",
+    "encoder": "KTX-Software 4.4.2 / glTF Transform 4.5.1",
+    "level": 3,
+    "zstd": 18,
+    "rdo": false,
+    "mipmaps": true,
+    "resized": false,
+    "count": 72,
+    "resolutions": [
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        256,
+        1024
+      ],
+      [
+        256,
+        1024
+      ],
+      [
+        256,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ],
+      [
+        1024,
+        1024
+      ]
+    ],
+    "mipLevels": 11,
+    "supercompression": "Zstandard"
+  },
+  "geometry": {
+    "format": "EXT_meshopt_compression",
+    "encoder": "meshoptimizer 1.3.0 (vertex codec version 0)",
+    "filters": "NONE",
+    "quantized": false,
+    "simplified": false,
+    "decodedAttributeBytesIdentical": true,
+    "triangleTopologyIdentical": true,
+    "nodeTransformsMaxAbsDelta": 0,
+    "compressedBufferViews": 416,
+    "compressedGeometryBytes": 5040407
+  },
+  "license": {
+    "modelAndTextures": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "upstreamNotices": "https://github.com/Unity-Technologies/Classic-Sponza/blob/660b3d777515bf9d7eb3e671ff94da45c97b064b/Third%20Party%20Notices.md",
+    "originalCopyrightFile": "model-copyright.txt",
+    "separateHdrIncluded": false,
+    "file": "LICENSE-CC-BY-3.0.txt"
+  },
+  "extensionsRequired": [
+    "EXT_meshopt_compression",
+    "KHR_texture_basisu"
+  ],
+  "originalComparisonFixtureUnchanged": true,
+  "runtime": {
+    "renderer": "Babylon Lite WebGPU",
+    "renderables": 217,
+    "materials": 24,
+    "nativeCompressedTextureUploads": 72,
+    "formats": {
+      "bc7-rgba-unorm-srgb": 24,
+      "bc7-rgba-unorm": 48
+    },
+    "gpuErrors": []
+  },
+  "validator": {
+    "errors": 0,
+    "limitations": [
+      "Installed validator does not support EXT_meshopt_compression or KHR_texture_basisu; it reports KTX2 MIME and extension-resource warnings. NodeIO round-trip and actual BLite rendering were verified separately."
+    ]
+  }
+}

@@ -13,6 +13,7 @@
 
 | Asset | Preview |
 | ------------- | -----:|
+| sponza-uastc-meshopt_glb<br/>meshes/ClassicSponza/sponza-uastc-meshopt.glb | sponza-uastc-meshopt_glb (meshes) - preview unavailable |
 | bent_normal_test_gltf<br/>meshes/BentNormalTest/bent_normal_test.gltf | bent_normal_test_gltf (meshes) - preview unavailable |
 | aerobatic_plane<br/>meshes/aerobatic_plane.glb | ![aerobatic_plane](https://assets.babylonjs.com/generated/aerobatic_plane.glb.jpeg) |
 | alien<br/>meshes/alien.glb | ![alien](https://assets.babylonjs.com/generated/alien.glb.jpeg) |
