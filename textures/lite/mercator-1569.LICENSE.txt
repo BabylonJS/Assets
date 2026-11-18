@@ -1,0 +1,13 @@
+Gerardus Mercator - World Map (Nova et Aucta Orbis Terrae Descriptio), 1569.
+
+Author: Gerardus Mercator (1512-1594)
+Source: https://commons.wikimedia.org/wiki/File:Mercator_1569.png
+Original file: https://upload.wikimedia.org/wikipedia/commons/b/b2/Mercator_1569.png
+SHA-256: 5c1b84a3cf38b86d823edfc3144d0a6a158fc72fe60c167ce1afb7c126350291
+
+Public domain. Wikimedia Commons identifies this work as public domain in its
+country of origin and in countries where the copyright term is the author's life
+plus 100 years or fewer, and as free of known copyright restrictions.
+
+Public Domain Mark 1.0:
+https://creativecommons.org/publicdomain/mark/1.0/
