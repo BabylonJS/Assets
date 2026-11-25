@@ -1,0 +1,26 @@
+Pine Forest (cropped around the Montaigle ruins) - Babylon Lite volumetric fog demo asset
+
+Source
+  "Pine Forest" scene by Poly Haven
+  https://polyhaven.com/collections/pine_forest
+  Archive: https://dl.polyhaven.org/file/ph-assets/Scenes/pine_forest.zip
+  Archive SHA-256: 9d08c4883a0b0eac2bd001ef874795d5120889b59e97c52f482cf1da77e42c33
+
+License
+  CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+  https://creativecommons.org/publicdomain/zero/1.0/
+  Poly Haven license: https://polyhaven.com/license
+
+  This folder is NOT covered by this repository's default CC BY 4.0 license.
+
+All models, textures and HDR imagery in this folder come only from that archive:
+  - pine-forest-ruins-f35-b10.glb and pine-forest-ruins-f35-b10-casters.glb: the scene's
+    models and their textures (trees, saplings, ground cover, rocks, Montaigle ruins, terrain);
+  - terrain/: the terrain layer textures forest_leaves_04, forest_ground_04 and rocky_trail,
+    and a control mask baked from the scene's terrain material;
+  - evening-road-1k.hdr: the scene's evening_road_01_puresky sky HDRI, reduced to 1024 x 512.
+
+The accompanying documentation and metadata are also released under CC0 1.0.
+
+The files were modified (converted, cropped, simplified, downscaled and compressed); see
+README.md. CC0 requires no attribution; credit to Poly Haven and its artists is appreciated.

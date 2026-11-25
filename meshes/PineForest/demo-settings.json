@@ -1,0 +1,15 @@
+{
+    "camera": {
+        "position": [
+            16.933073867490606,
+            5.500630377658549,
+            50.36421027450283
+        ],
+        "forward": [
+            0.9009418336352015,
+            0.30287643758792443,
+            -0.310756618529821
+        ],
+        "source": "Ruins viewpoint looking up into the moonlit shafts, read from the user-framed live demo camera (scene UBO view matrix) on 2026-11-24."
+    }
+}
