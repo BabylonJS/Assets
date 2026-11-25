@@ -619,6 +619,8 @@
 | rpm_glb<br/>mixamo/Characters/rpm.glb | rpm_glb (meshes) - preview unavailable |
 | Whiteclown_N_Hallin_glb<br/>mixamo/Characters/Whiteclown N Hallin.glb | Whiteclown_N_Hallin_glb (meshes) - preview unavailable |
 | surface_transmission_glb<br/>meshes/SurfaceTinting/surface_transmission.glb | surface_transmission_glb (meshes) - preview unavailable |
+| pine-forest-ruins-f35-b10_glb<br/>meshes/PineForest/pine-forest-ruins-f35-b10.glb | pine-forest-ruins-f35-b10_glb (meshes) - preview unavailable |
+| pine-forest-ruins-f35-b10-casters_glb<br/>meshes/PineForest/pine-forest-ruins-f35-b10-casters.glb | pine-forest-ruins-f35-b10-casters_glb (meshes) - preview unavailable |
 
 ## nme
 
@@ -747,6 +749,7 @@
 | TropicalSunnyDay_py_jpg<br/>skyboxes/TropicalSunnyDay/TropicalSunnyDay_py.jpg | ![TropicalSunnyDay_py_jpg](https://assets.babylonjs.com/generated/TropicalSunnyDay_py.jpg.jpeg) |
 | TropicalSunnyDay_pz_jpg<br/>skyboxes/TropicalSunnyDay/TropicalSunnyDay_pz.jpg | ![TropicalSunnyDay_pz_jpg](https://assets.babylonjs.com/generated/TropicalSunnyDay_pz.jpg.jpeg) |
 | matcap_jpg<br/>skyboxes/matcap.jpg | ![matcap_jpg](https://assets.babylonjs.com/generated/matcap.jpg.jpeg) |
+| starry_night_skybox_png<br/>skyboxes/starry_night_skybox.png | ![starry_night_skybox_png](https://assets.babylonjs.com/generated/starry_night_skybox.png.jpeg) |
 
 ## sprites
 
