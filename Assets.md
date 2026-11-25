@@ -749,6 +749,7 @@
 | TropicalSunnyDay_py_jpg<br/>skyboxes/TropicalSunnyDay/TropicalSunnyDay_py.jpg | ![TropicalSunnyDay_py_jpg](https://assets.babylonjs.com/generated/TropicalSunnyDay_py.jpg.jpeg) |
 | TropicalSunnyDay_pz_jpg<br/>skyboxes/TropicalSunnyDay/TropicalSunnyDay_pz.jpg | ![TropicalSunnyDay_pz_jpg](https://assets.babylonjs.com/generated/TropicalSunnyDay_pz.jpg.jpeg) |
 | matcap_jpg<br/>skyboxes/matcap.jpg | ![matcap_jpg](https://assets.babylonjs.com/generated/matcap.jpg.jpeg) |
+| starry_night_skybox_png<br/>skyboxes/starry_night_skybox.png | ![starry_night_skybox_png](https://assets.babylonjs.com/generated/starry_night_skybox.png.jpeg) |
 
 ## sprites
 
